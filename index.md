@@ -2,26 +2,26 @@
 layout: default
 ---
 
-![Header Image, Alice and Eve 2022 at TU Delft](assets/biscuit.png)
+![Header Image, Alice and Eve 2022 at TU Delft](assets/header.png)
 
-Let's celebrate together the women in Computing.
+
 Welcome to our free one-day workshop for women studying and working in Computing in the Netherlands.
 Join us, and participate to our poster contest on the topic of your choice.
 
-Previous Editions: [2021](https://aliceandeve.cs.ru.nl/), [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/)
+Alice & Eve 2021 is a workshop for celebrating women in computing in the Netherlands.
+It aims to bring together talents in the field of computing.
+The third edition of this workshop will be hosted on [TBA] by the Delft University of Technology.
 
-## Presentation
+Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008.
+For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/) and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
 
-Alice & Eve 2021 is a workshop for celebrating women in computing in the Netherlands. It aims to bring together talents in the field of computing. The second edition of this workshop will be hosted on November 12, 2021 by Radboud University, Nijmegen, The Netherlands.
-
-Alice and Eve event is inspired by the BCS Lovelace Colloquium that started in 2008. For more details about the first edition of Alice & Eve in 2020, see here.
-Registration
+### Registration
 
 The event is free. We welcome everyone from bachelor students to full professors to participate and to attend the event.
 
-If you would like to attend the workshop, please register here: **TODO**
+If you would like to attend the workshop, please register here: [TBA]
 
-Format
+### Format
 The event is held during a single day, and features:
 - keynote talks,
 - a poster contest, and
@@ -32,116 +32,54 @@ The event is held during a single day, and features:
 
 In addition to the keynote talks and the posters, there will be an exhibition which portrays twenty women in computing and their most important contributions.
 
-Some highlights of the exhibition:
-
-    Grace Hopper who created the world’s first workable compiler;
-    Ada Lovelace who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
-    Rosalind Picard and her work on Affective Computing which is a combination of Computer Science, Psychology, Physiology and Cognitive Sciences;
-    Frances Brazier who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.
+Some highlights of the exhibition:  
+**Grace Hopper** who created the world’s first workable compiler;  
+**Ada Lovelace** who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;  
+**Rosalind Picard** and her work on Affective Computing which is a combination of Computer Science, Psychology, Physiology and Cognitive Sciences;  
+**Frances Brazier** who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.  
 
 More information on these women, and many others, can be found at the exhibition.
 
 
 ## Call for Posters
-
-    Deadline stipend: October 15, 2021 at 23:59
-    Selected stipend notification: October 22, 2021
-    Deadline abstract: November 12, 2021 at 23:59
+    Deadline abstract: TBA
     Selected abstract notification: TBA
 
-    Alice & Eve event: November 12, 2021
+    Alice & Eve event: TBA
 
-All women students (Bachelor/Master/PhD) and postdocs of computing and related subjects [1] are invited to enter one of the poster contests during Alice & Eve 2021.
+All women students (Bachelor/Master/PhD) and postdocs of computing and related subjects [1] are invited to enter one of the poster contests during Alice & Eve 2022.
 
 To enter the poster contest, you will have to write a 250 word abstract on the topic of your poster.
-
-Your abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing; and from medical image processing to formal verification. If it involves computers, we’re interested. If you aren’t sure what a 250-word abstract looks like, we have some example abstracts here (from the British BCS Lovelace Colloquium).
+Your abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing; and from medical image processing to formal verification. If it involves computers, we’re interested. If you aren’t sure what a 250-word abstract looks like, we have some example abstracts [here](https://bcswomenlovelace.bcs.org/?page_id=94) (from the British BCS Lovelace Colloquium).
 
 You will receive instructions about your poster with the acceptance notification e-mail.
 
-[1] We interpret “related subjects” very broadly – we would like to involve everybody in the area of computing in the broadest sense. If you are not sure, drop the organisers an email at www-aliceandeve (at) science.ru.nl and we will probably say yes.
+[1] We interpret “related subjects” very broadly – we would like to involve everybody in the area of computing in the broadest sense. If you are not sure, drop the organizers an email and we will probably say yes.
 
 
-Poster Selection Committee
+#### Poster Selection Committee
 
-The poster selection committee and jury consists of the following members:
-
-    Ileana Buhan (Chair), Radboud University
-    Simona Samardjiska (Chair), Radboud University
-    Olga Gadyatskaya, Leiden University
-    Nele Mentens, Leiden University and KU Leuven
-    Jasmina Omic, Riscure
-    Jana Sotakova, University of Amsterdam
-    Marielle Stoelinga, University of Twente
-    Christine van Vredendaal, NXP Semiconductors
+The poster selection committee and jury consists of the following members: TBA
 
 ## Venue
 
-See with OpenStreetMap
+The workshop will be held at the TU Delft campus, in the Echo Building.
+Check out how to get there on [Google Maps](https://goo.gl/maps/aDb6BVPaChFRQ26k7).
 
-TRAVEL TO ALICE & EVE
-
-Alice & Eve workshop venue is located at Van der Valk Hotel Nijmegen-Lent, Hertog Eduardplein 4, 6663 AN Nijmegen. No matter where you are coming from, it is easy to get to Alice & Eve by your own car, as well as public transportation.
-Traveling by bus
-
-Alice & Eve workshop venue can be easily reached by bus with routes that pass Arnhem or Nijmegen Central Station. (bus company: https://www.breng.nl/en/).
-
-    From Nijmegen Central Station, take either bus line 13 or 15 to Lent, Station Lent Laauwikstr.
-    From Arnhem Central Station, take bus lines 300, or 331 to the same station.
-
-The Alice & Eve venue is situated in walking distance from this station.
-
-When you enter the bus, check in at the OV chipkaart card reader located near the door. Once you leave the bus do not forget to checkout.
-
-In case you don't have an OV chipkaart, you can buy a single-use one (more information here). The single use OV chipkaart can be purchased from the ticket machines in the train station or in the bus. Since this type of card is topped up when you buy it, you can use it straight away to travel for one trip or 24 hours (unlimited travel for one day).
-
-Note that you have to check in and out with the disposable chipkaart, otherwise it becomes invalid. Specifically, for traveling by train there is a NS Dutch Railways disposable ticket which carries a €1 surcharge over the standard fare. You also can charge your OV- chipkaart via several different methods, one of which is charging your card at a yellow loading dock located at any train station. There is a charging dock on campus as well, located in the hall of the Central Library. Please note that you need a Maestro debit card to use it.
-Traveling by train
-
-Alice & Eve venue is located directly at Nijmegen Lent station (Griftdijk Noord 4, 6663 AG Lent) and easily accessible with public transport. The station is situated between Nijmegen and Arnhem Central.
-
-You can use the hotel locked bicycle storage during your stay.
-
-Alice & Eve venue is accessible via the motorways A15, A50 and A325.
-
-If you are coming from cities located west of the Nijmegen, you can:
-
-    merge onto A15 and follow A15 towards junction Ressen.
-    At this junction, keep right and follow the signs for N325 toward Nijmegen/Kleve.
-    At the third sets of traffic lights turn left (Prins Mauritssingel) and at the next traffic light turn right (station Lent). The hotel is located to your right.
-
-If you are coming from cities located east of the Nijmegen, you can:
-
-    reach B9 and continue B9 until you reach N325.
-    Stay on N325 to get to Hertog Eduardplein.
-    Turn right to stay on Hertog Eduardplein and the venue is located to your right.
-
-If you are coming from cities located north of the Nijmegen, you can:
-
-    follow the A325 towards Nijmegen- Noord/Lent.
-    At the third sets of traffic lights turn left (Prins Mauritssingel) and at the next traffic light turn right (station Lent). The hotel is located to your right.
-
-If you are coming from cities located south of the Nijmegen, you can:
-
-    follow the A50 towards junction Valburg.
-    Exit the junction at right and take the A15 to the East (Arnhem).
-    Then after driving for 7.8 km, exit at junction Ressen and take the A325 towards Nijmegen-Noord/Lent.
-    At the third sets of traffic lights turn left and at the next traffic light turn right. The hotel is located to your right.
-
-There are five airports located near Nijmegen: Amsterdam Schiphol, Düsseldorf, Eindhoven, Weeze, and Dortmund. The nearest airport to Nijmegen is Weeze (NRN).
-
-However, there are better options for getting to Nijmegen. Dutch Railways (NS) operates a train from Schiphol Airport to Nijmegen hourly. Tickets cost between €16 and €35 and the journey takes 1h 30m.
-
-STIPEND INFORMATION
-
-A limited number of stipends to cover the travelling costs are available to students and researchers who cannot afford to attend the workshop otherwise. Requests for stipends should be sent by e-mail to www-aliceandeve@science.ru.nl before October 15, 2021. Please include a short CV and motivation letter in the request. Note that we will give priority to students from less well-off institutions from nearby countries.
-
-Stipend applicants will be informed about the outcome of their applications by October 22, 2021.
-
+![Picture of the Echo Building at TU Delft, a large building with glass walls and plants ranking up in front of the Windows](https://www.tudelftcampus.nl/wp-content/uploads/1612/76/echo-buiten-1200x675.jpg)
 
 ## Program
 
-9.30 - 10.00 	Welcome coffee
+| Time |  |
+|---|---|
+| TBA | TBA |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
+<!-- 9.30 - 10.00 	Welcome coffee
 10.00 - 10.15 	Opening remarks
 10.15 - 10.45 	Post-quantum hash-based signatures
 Christine van Vredendaal
@@ -163,135 +101,28 @@ Nele Mentens
 16.15 - 17.00 	AI & Me: The Good, The Bad and The Ugly
 Panel discussion chaired by Ahmad-Reza Sadeghi
 Participants: Hanna Schraffenberger, Stjepan Picek, Begul Bilgin
-17.00 	Drinks
+17.00 	Drinks -->
 
 
 ## Invited Speakers
 
-    Nele Mentens - Professor at Leiden Univeristy and KU Leuven
-    Nele Mentens
-
-    Nele Mentens is a professor at Leiden University in the Netherlands and KU Leuven in Belgium. She was a visiting researcher at Ruhr University Bochum in 2013 and at EPFL in 2017. Her research interests are in the field of configurable computing and hardware security. She was/is the PI in around 20 finished and ongoing research projects with national and international funding. She serves as a program committee member of renowned international conferences on security and hardware design, such as NDSS, USENIX Security Symposium, ACM CCS, Asiacrypt, CHES, ESORICS, DAC, DATE, FPL and ESSCIRC. She was the general co-chair of FPL'17 and the program chair of EWME'18, PROOFS'18, FPL'20, CARDIS'20 and RAW'21. She is (co-)author in over 100 publications in international journals, conferences and books. She received best paper awards and nominations at CHES'19, AsianHOST'17 and DATE'16. Nele serves as an associate editor for IEEE Transactions on Information Forensics and Security and IEEE Circuits and Systems Magazine.
-
-    Talk: Efficiency and agility: in secure hardware and in life!
-    When embedded electronic systems need high performance or low power consumption, it is often unavoidable to move computationally intensive or power-hungry operations, such as cryptographic algorithms, from software to hardware. In this presentation, we highlight research challenges and directions in the field of cryptographic hardware design with a specific focus on cryptographic agility, i.e. the ability of cryptographic implementations to be updated depending on newly detected vulnerabilities, new standards, or the availability of more efficient implementations. Finally, this talk will also give a personal reflection on efficiency and agility in life.
-
-    Christine van Vredendaal - System and Architecture Engineer at NXP Semiconductors
-    Christine van Vredendaal
-
-    Christine van Vredendaal was born on November 16th, 1989 in Breda. After completing the gymnasium at the Newman College in Breda, she enrolled in Eindhoven University of Technology in 2008 to study mathematics. During her time there she worked for the Public Relations team of the Mathematics and Computer Science department, served as Vice-chairman on the board of study association GEWIS and during her master thesis did an internship at Brightsight b.v. Her topic was Rank Estimation Methods in Side Channel Attacks. From June 2014 onwards she was a PhD Student in Dan Bernstein's Cryptographic Implementations group which work along side the Coding Theory and Cryptology group of the Mathematics and Computer Science department of the TU/e. She defended her thesis "Exploiting Mathematical Structures in Cryptography" with distinction in June 2018. Since August 2018 she has been working in the Innovation Center Crypto & Security at NXP Semiconductors in Eindhoven, the Netherlands.
-
-    Talk: Post-quantum hash-based signatures
-    With the advent of a quantum computers, the cryptographic community is looking forward at post-quantum cryptography; cryptography that withstands a potential attack by quantum computers. Christine will in this talk first shortly introduce post-quantum cryptography. Then she will give some intuitions on one type of post-quantum cryptography: hash-based signatures. Why are they secure? How do they work on a high-level? What are their advantages and disadvantages compared to other post-quantum options?
-
-    Jasmina Omic - Product Manager Services at Riscure
-    Jasmina Omic
-
-    Jasmina Omic has worked in the security field for over 14 years. In her current position as Riscure Product Manager Services, she is driving the security services, relaying on innovative approaches and high quality standards. Jasmina focuses on providing the best services and guidance for Riscure customers, based on 8 years of hands-on experience as a security analyst for IC and embedded devices, working under different certification schemes and testing approaches.
-
-    Talk: On gender, change, attention, imposter syndrome & technology
-    What kind of link exists between gender, imposter syndrome, change, attention, and technology? Let’s discover this together with Jasmina's personal journey through different fields of technology and science. We can start with electrical engineering (transistors and flip-flops), continue to discrete mathematics (eigen values, game theory and virus spread), and finally arrive at hacking chipsets with lasering the secret keys out.
-
-    Emma Gerritse - Ph.D. student at Radboud University
-    Emma Gerritse
-
-    Emma Gerritse has a Bachelor’s degree in both Mathematics and Computer Science, and a Master’s degree in Data Science. Her topic of research is the usage of Graph Embeddings in Information retrieval. She is interested in how we can use graph embeddings in the most optimal way to benefit users, but also the unintended effects they might have. Currently, she is a Ph.D. student at Radboud University Nijmegen.
-
-    Talk: Bias in Information Retrieval
-    Search engines are an important part in the daily life of people with internet access. Recently, with the power of modern techniques like Neural Networks, search engines have improved greatly in performance. However, these black-box methods can introduce all kinds of unforeseen biases, like gender bias. In this talk, Emma will give an overview of several methods used in Information Retrieval, discuss the biases they have introduced and methods how to mitigate this.
-
-    Gemma Catolino - Post-doctoral researcher at the Jheronimus Academy of Data Science
-    Gemma Catolino
-
-    Dr. Gemma Catolino is a postdoctoral researcher at the Jheronimus Academy of Data Science---a collaboration between Tilburg University and Eindhoven Technical University. In 2020, she received the European Ph.D. Degree from the University of Salerno (Italy). Her research interests include human factors in software maintenance and evolution, empirical software engineering, source code quality, and mining software repositories. She got recently receipted, together with other collaborators, of the 4TU Diversity-Equity-Inclusion grant. In addition, she serves and has served as a program/organizing committee member of various and high starred international conferences in the field of software engineering.
-
-    Talk: Exploiting Human-Factors in Software Maintenance and Evolution
-    During software development and maintenance, companies continually deal with issues related to the management of human resources. Such factors as team dynamics, experience, seniority, training, office culture could influence the success of a company and the quality of software produced. Hence, human factors should be carefully considered and monitored since they are an integral part of the software process and could lead to dangerous consequences. In this talk, Gemma will explain how she faced this problem by analyzing how human factors related to team's dynamics, e.g., culture, gender, reflect software quality from a maintenance perspective.
-
-    Thorsten Holz - Tenured faculty at the CISPA Helmholtz Center for Information Security, Germany
-    Thorsten Holz
-
-    Thorsten is a tenured faculty at the CISPA Helmholtz Center for Information Security in Saarbrücken, Germany. Before joining CISPA in October 2021, he was a professor at Ruhr-University Bochum. His research interests include technical aspects of secure systems, with a specific focus on systems security. Currently, his work concentrates on reverse engineering, automated vulnerability detection, and studying latest attack vectors. He received the Dipl.-Inform. degree in Computer Science from RWTH Aachen, Germany (2005) and the Ph.D. degree from University of Mannheim (2009). Prior to joining RUB in April 2010, he was a postdoctoral researcher in the Automation Systems Group at the Technical University of Vienna, Austria.
-
-    Talk: Reflections on Research
-    Life in academia can have many ups and downs: submissions to a scientific conference may be accepted or rejected, we may travel to conferences in distant countries or spend many hours in Zoom meetings, and experiments can work right off the bat or we may have to spend many months debugging a prototype. In this talk, I will reflect on the lessons I have learned in my 15+ years as scientist. I will dispel some myths about successful research and share some insights about how we do research in my group.
-
-PANEL COMMITTEE
-Moderator
-
-    Ahmad-Reza Sadeghi - Professor of Computer Science at TU Darmstadt, head of the Systems Security Lab at the Cybersecurity Research Center of TU Darmstadt, and director of the Intel Research Institute for Collaborative Autonomous Resilient Systems (ICRI-CARS) at TU Darmstadt
-    Ahmad-Reza Sadeghi
-
-    Ahmad-Reza Sadeghi is a professor of Computer Science at the TU Darmstadt, Germany. He is the head of the Systems Security Lab at the Cybersecurity Research Center of TU Darmstadt. He is also the director of the Intel Research Institute for Collaborative Autonomous Resilient Systems (ICRI-CARS) at TU Darmstadt. He holds a Ph.D. in Computer Science from the University of Saarland, Germany. Prior to academia, he worked in R&D of Telecommunications enterprises, amongst others Ericsson Telecommunications.
-
-    He has been continuously contributing to security and privacy research.
-
-    He was Editor-In-Chief of IEEE Security and Privacy Magazine, served 5 years on the editorial board of the ACM Transactions on Information and System Security (TISSEC), and is currently on the editorial boards of ACM Books, ACM TODAES, ACM TIOT and ACM DTRAP.
-
-    For his influential research on Trusted and Trustworthy Computing he received the renowned German “Karl Heinz Beckurts” award. This award honors excellent scientific achievements with high impact on industrial innovations in Germany. In 2018 Prof. Sadeghi received the ACM SIGSAC Outstanding Contributions Award for dedicated research, education, and management leadership in the security community and for pioneering contributions in content protection, mobile security and hardware-assisted security. SIGSAC is ACM’s Special Interest Group on Security, Audit and Control.
-
-Members
-
-    Hanna Schraffenberger - Assistant Professor at Radboud University
-    Hanna Schraffenberger
-
-    Stjepan Picek - Associate Professor at Radboud University
-    Stjepan Picek
-
-    Begul Bilgin - Researcher at Rambus Cryptography Research and at imec-COSIC in KU Leuven
-    Begul Bilgin
+TBA
 
 ## Our Sponsors
 
-PLATINUM SPONSORS
-University of Leiden logo
-Rambus logo
+Do you want to support us connect women in computing by sponsering Alice & Eve? Please contact the organizers!
 
-GOLD SPONSOR
-BetterBe logo
+## Organizing committee
 
-SILVER SPONSOR
-Sidn Labs logo
+    Burcu Kulahcioglu Ozkan
+    Delft University of Technology
 
-BRONZE SPONSOR
-LNVH logo
-Organizing committee
+    Andra-Denis Ionescu
+    Delft University of Technology
 
-    Lejla Batina
-    Radboud University Nijmegen, The Netherlands
-
-    Ileana Buhan
-    Radboud University Nijmegen, The Netherlands
-
-    Katharina Kohls
-    Radboud University Nijmegen, The Netherlands
-
-    Simona Samardjiska
-    Radboud University Nijmegen, The Netherlands
-
-    Anna Guinet
-    Radboud University Nijmegen, The Netherlands
-
-    Konstantina Miteloudi
-    Radboud University Nijmegen, The Netherlands
-
-    Denisa Greconici
-    Radboud University Nijmegen, The Netherlands
-
-    Solane El Hirch
-    Radboud University Nijmegen, The Netherlands
-
-    Parisa Amiri Eliasi
-    Radboud University Nijmegen, The Netherlands
-
-    Azade Rezaeezade
-    Technical University of Delft, The Netherlands
+    Carolin Brandt
+    Delft University of Technology
 
 ## Contact Us
 
-For questions regarding the workshop, please contact the organizers:
-www-aliceandeve (at) science.ru.nl
-Support Us
-
-Become a sponsor and support the event. For more detail, please contact prof. Lejla Batina:
-lejla (at) cs.ru.nl
+For questions regarding the workshop, please contact the organizers!
