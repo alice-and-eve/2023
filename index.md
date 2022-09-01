@@ -63,10 +63,7 @@ The poster selection committee and jury consists of the following members: TBA
 
 ## Venue
 
-The workshop will be held at the TU Delft campus, in the Echo Building.
-Check out how to get there on [Google Maps](https://goo.gl/maps/aDb6BVPaChFRQ26k7).
-
-![Picture of the Echo Building at TU Delft, a large building with glass walls and plants ranking up in front of the Windows](https://www.tudelftcampus.nl/wp-content/uploads/1612/76/echo-buiten-1200x675.jpg)
+The workshop will be held in Delft, but the exact venue is still TBA.
 
 ## Program
 
