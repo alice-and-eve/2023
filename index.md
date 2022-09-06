@@ -10,7 +10,7 @@ Join us, and participate to our poster contest on the topic of your choice.
 
 Alice & Eve 2021 is a workshop for celebrating women in computing in the Netherlands.
 It aims to bring together talents in the field of computing.
-The third edition of this workshop will be hosted on [TBA] by the Delft University of Technology.
+The third edition of this workshop will be hosted on **18 November 2022** by the Delft University of Technology.
 
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008.
 For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/) and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
@@ -45,7 +45,7 @@ More information on these women, and many others, can be found at the exhibition
     Deadline abstract: TBA
     Selected abstract notification: TBA
 
-    Alice & Eve event: TBA
+    Alice & Eve event: 18 November 2022
 
 All women students (Bachelor/Master/PhD) and postdocs of computing and related subjects [1] are invited to enter one of the poster contests during Alice & Eve 2022.
 
@@ -63,7 +63,7 @@ The poster selection committee and jury consists of the following members: TBA
 
 ## Venue
 
-The workshop will be held in Delft, but the exact venue is still TBA.
+The workshop will be held at [Mondai House of AI @ Next Delft](https://mondai.tudelftcampus.nl/en/) at the TU Delft campus.
 
 ## Program
 
