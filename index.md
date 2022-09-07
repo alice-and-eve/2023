@@ -8,7 +8,7 @@ layout: default
 Welcome to our free one-day workshop for women studying and working in Computing in the Netherlands.
 Join us, and participate to our poster contest on the topic of your choice.
 
-Alice & Eve 2021 is a workshop for celebrating women in computing in the Netherlands.
+Alice & Eve 2022 is a workshop for celebrating women in computing in the Netherlands.
 It aims to bring together talents in the field of computing.
 The third edition of this workshop will be hosted on **18 November 2022** by the Delft University of Technology.
 
