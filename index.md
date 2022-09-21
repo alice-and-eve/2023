@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Header Image, Alice and Eve 2022 at TU Delft](assets/header.png)
+<!-- ![Header Image, Alice and Eve 2022 at TU Delft](assets/header.png) -->
 
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing in the Netherlands!
@@ -12,20 +12,18 @@ The third edition of this workshop will be hosted on **18 November 2022** by the
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008.
 For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/) and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
 
-Join us, and participate to our poster contest on the topic of your choice.
+The event is held during a single day, and features:
+- keynote talks,
+- a poster contest, and
+- an exhibition on women in computing.
+
+Join us, and participate to our poster contest on the topic of your choice!
 
 ### Registration
 
 The event is free. We welcome everyone from bachelor students to full professors to participate and to attend the event.
 
 If you would like to attend the workshop, please [register here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/).
-
-### Format
-The event is held during a single day, and features:
-- keynote talks,
-- a poster contest, and
-- an exhibition on women in computing.
-
 
 ## Exhibition
 
@@ -117,6 +115,10 @@ TBA
 
 Do you want to support us connect women in computing by sponsering Alice & Eve? Please contact the organizers!
 
+## Contact Us
+
+For questions regarding the workshop, please contact the organizers!
+
 ## Organizing committee
 
     Burcu Kulahcioglu Ozkan
@@ -128,6 +130,4 @@ Do you want to support us connect women in computing by sponsering Alice & Eve? 
     Carolin Brandt
     Delft University of Technology
 
-## Contact Us
-
-For questions regarding the workshop, please contact the organizers!
+## Steering committee
