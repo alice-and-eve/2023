@@ -1,8 +1,8 @@
 $tudbluedark: #0C2340;
 $tudlime:  #6CC24A;
 $tudturquoise: #00B8C8;
-$tudgreen: #009B77;
-$tudblue: #0076C2;
+$tudgreen: #14b892;
+$tudblue: #005c99;
 
 
 html {
@@ -19,7 +19,7 @@ html {
 body {
   margin: 2rem 0;
   color: #333;
-  background: linear-gradient(to right, $tudlime, $tudturquoise);
+  background: linear-gradient(to right, transparentize($tudlime, .35), transparentize($tudturquoise, .35));
 }
 
 @media (min-width: 30rem) {
@@ -30,7 +30,7 @@ body {
 
 a {
   color: $tudblue; /* From http://clrs.cc */
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover, a:focus {
@@ -153,11 +153,12 @@ table {
 
 td, th {
   padding: .25rem .5rem;
-  border: 1px solid #ccc;
+  border: 1px solid #999;
 }
 
 pre, code {
   font-family: inherit;
+  font-size: 18px;
   background-color: $tudgreen;
   color: #000;
 }
@@ -239,4 +240,30 @@ pre > code {
 .button-3:active {
   background-color: #298e46;
   box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
+
+.orga {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+  gap: 10px;
+  align-items: center;
+}
+
+.trim-img {
+  max-height: 150px;
+  overflow: hidden;
+}
+
+.profile-img {
+  width: 150px;
+}
+
+.container .profile-img {
+  margin: 0 auto;
+  display: unset;
+}
+
+.container .img {
+  max-width: 50%;
 }
