@@ -5,7 +5,7 @@ layout: default
 <!-- ![Header Image, Alice and Eve 2022 at TU Delft](assets/header.png) -->
 
 
-Welcome to our free one-day workshop for celebrating women studying and working in computing in the Netherlands!
+Welcome to our free one-day workshop for celebrating women studying and working in computing!
 Alice & Eve aims to bring together talents in the field of computing.
 The third edition of this workshop will be hosted on **18 November 2022** by the Delft University of Technology.
 
@@ -50,7 +50,7 @@ We interpret “related subjects” very broadly – we would like to involve ev
 To enter the poster contest, please write a one page abstract (minimum 250 words) on the topic of your poster.
 Your abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing; and from medical image processing to formal verification. If it involves computers, we’re interested.
 
-Please submit your abstracts via [EasyChair (link TBA)]().  
+Please submit your abstracts via [EasyChair](https://easychair.org/conferences/?conf=ae22).  
 You will receive instructions about your poster with the acceptance notification e-mail.
 
 #### Poster Selection Committee
