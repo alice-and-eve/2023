@@ -108,7 +108,11 @@ Participants: Hanna Schraffenberger, Stjepan Picek, Begul Bilgin
 
 ## Invited Speakers
 
-TBA
+ - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb) (Prof. at UvA)
+ - [Peter Boncz](https://homepages.cwi.nl/~boncz/) (Prof CWI)
+ - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en) (Assoc. prof. at RUG)
+ - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos) (Assist. Prof TUD)
+ - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/) (Phd Student, ING)
 
 ## Our Sponsors
 
