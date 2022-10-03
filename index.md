@@ -106,13 +106,13 @@ Participants: Hanna Schraffenberger, Stjepan Picek, Begul Bilgin
 17.00 	Drinks -->
 
 
-## Invited Speakers
+## Confirmed Speakers
 
- - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb) (Prof. at UvA)
- - [Peter Boncz](https://homepages.cwi.nl/~boncz/) (Prof CWI)
- - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en) (Assoc. prof. at RUG)
- - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos) (Assist. Prof TUD)
- - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/) (Phd Student, ING)
+ - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), University of Amsterdam (UvA)
+ - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Centrum Wiskunde & Informatica (CWI)
+ - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), University of Groningen (RUG)
+ - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Delft University of Technology (TUD)
+ - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), ING Bank
 
 ## Our Sponsors
 
