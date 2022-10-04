@@ -21,7 +21,7 @@ Join us, and participate to our poster contest on the topic of your choice!
 
 ### Registration:
 
-The event is free. We welcome everyone of **all genders**, **from bachelor students to full professors**, to participate and attend the event.
+The event is free. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
 
 If you would like to attend the workshop, please [register here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/).
 
@@ -29,8 +29,8 @@ If you would like to attend the workshop, please [register here](https://mondai.
 
     Alice & Eve workshop: 18 November 2022
 
-    Poster abstract submsision deadline: 24th of October 2022
-    Notification of accepted posters: 1st of November 2022
+    Poster abstract submsision deadline: 24 October 2022
+    Notification of accepted posters: 1 November 2022
 
   
 ### Venue:
