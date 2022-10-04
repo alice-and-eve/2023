@@ -52,13 +52,19 @@ More information on these women, and many others, can be found at the exhibition
 
 ## Invited Speakers
 
-The following speakers have already confirmed their participation in the event:
 
- - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), University of Amsterdam (UvA)
- - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Centrum Wiskunde & Informatica (CWI)
- - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), University of Groningen (RUG)
- - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Delft University of Technology (TUD)
- - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), ING Bank
+ - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
+
+ - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen 
+
+ - [Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo), Chief Information Security Officer at AVAST 
+ 
+ - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), Professor at University of Amsterdam
+ 
+ - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Professor at Vrije University Amsterdam, Researcher at Centrum Wiskunde & Informatica (CWI) 
+
+ - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Assistant Professor at Delft University of Technology 
+  
 
  
 ## Call for Posters
@@ -83,16 +89,16 @@ The poster selection committee and jury consists of the following members: TBA
 |---|---|
 | 09.30 - 10.00  | Welcome coffee |
 | 10.00 - 10.15  | Opening |
-| 10.15 - 10.45  | Talk: **TBA**  |
+| 10.15 - 10.45  | Talk: **Stefanie Ross**  |
 | 10.45 - 11.00  | Coffree Break  |
-| 11.00 - 11.30  | Talk: **TBA**  |
-| 11.30 - 12.00  | Talk: **TBA**  |
+| 11.00 - 11.30  | Talk: **Judith Good**  |
+| 11.30 - 12.00  | Talk: **Elvan Kula**  |
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
-| 14.00 - 14.30  | Talk: **TBA**  |
-| 14.30 - 15.00  | Talk: **TBA**  |
+| 14.00 - 14.30  | Talk: **Peter Boncz**  |
+| 14.30 - 15.00  | Talk: **Helle Hansen**  |
 | 15.00 - 15.30  | Coffee break  |
-| 15.30 - 16.00  | Talk: **TBA**  |
+| 15.30 - 16.00  | On stage interview: **Jaya Baloo**  |
 | 16.00 - 16.15  | Poster prizes  |
 | 16.15 - 17.00  | Panel  |
 | 17.00 - 18.00  | Drinks and socials |
