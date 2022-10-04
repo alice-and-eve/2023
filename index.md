@@ -19,12 +19,24 @@ The event is held during a single day, and features:
 
 Join us, and participate to our poster contest on the topic of your choice!
 
-### Registration
+### Registration:
 
-The event is free. We welcome everyone (women, men, non-binary, any gender identity!) from bachelor students to full professors to participate and to attend the event.
+The event is free. We welcome everyone of **all genders**, **from bachelor students to full professors**, to participate and attend the event.
 
 If you would like to attend the workshop, please [register here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/).
 
+### Important dates:
+
+    Alice & Eve workshop: 18 November 2022
+
+    Poster abstract submsision deadline: 24th of October 2022
+    Notification of accepted posters: 1st of November 2022
+
+  
+### Venue:
+
+The workshop will be held at [Mondai House of AI @ Next Delft](https://mondai.tudelftcampus.nl/en/) at the TU Delft campus.
+  
 ## Exhibition
 
 In addition to the keynote talks and the posters, there will be an exhibition which portrays thirty women in computing and their most important contributions.
@@ -38,11 +50,18 @@ Some highlights of the exhibition:
 More information on these women, and many others, can be found at the exhibition and the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
 
 
-## Call for Posters
-    Deadline abstract: 24th of October 2022
-    Selected abstract notification: 1st of November 2022
+## Invited Speakers
 
-    Alice & Eve event: 18 November 2022
+The following speakers have already confirmed their participation in the event:
+
+ - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), University of Amsterdam (UvA)
+ - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Centrum Wiskunde & Informatica (CWI)
+ - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), University of Groningen (RUG)
+ - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Delft University of Technology (TUD)
+ - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), ING Bank
+
+ 
+## Call for Posters
 
 All women students (Bachelor/Master/PhD) and postdocs of computing and related subjects are invited to enter one of the poster contests during Alice & Eve 2022.  
 We interpret “related subjects” very broadly – we would like to involve everybody in the area of computing in the broadest sense. If you are not sure, drop the organizers an email and we will probably say yes.
@@ -57,9 +76,6 @@ You will receive instructions about your poster with the acceptance notification
 
 The poster selection committee and jury consists of the following members: TBA
 
-## Venue
-
-The workshop will be held at [Mondai House of AI @ Next Delft](https://mondai.tudelftcampus.nl/en/) at the TU Delft campus.
 
 ## Program
 
@@ -105,14 +121,6 @@ Panel discussion chaired by Ahmad-Reza Sadeghi
 Participants: Hanna Schraffenberger, Stjepan Picek, Begul Bilgin
 17.00 	Drinks -->
 
-
-## Confirmed Speakers
-
- - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), University of Amsterdam (UvA)
- - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Centrum Wiskunde & Informatica (CWI)
- - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), University of Groningen (RUG)
- - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Delft University of Technology (TUD)
- - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), ING Bank
 
 ## Our Sponsors
 
