@@ -55,7 +55,7 @@ More information on these women, and many others, can be found at the exhibition
 
  - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
 
- - [Helle Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen 
+ - [Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen 
 
  - [Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo), Chief Information Security Officer at AVAST 
  
@@ -96,7 +96,7 @@ The poster selection committee and jury consists of the following members: TBA
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
 | 14.00 - 14.30  | Talk: **Peter Boncz**  |
-| 14.30 - 15.00  | Talk: **Helle Hansen**  |
+| 14.30 - 15.00  | Talk: **Helle Hvid Hansen**  |
 | 15.00 - 15.30  | Coffee break  |
 | 15.30 - 16.00  | On stage interview: **Jaya Baloo**  |
 | 16.00 - 16.15  | Poster prizes  |
