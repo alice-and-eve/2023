@@ -250,6 +250,18 @@ pre > code {
   align-items: center;
 }
 
+.invited-speaker {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0px;
+  gap: 10px;
+  align-items: center;
+}
+
+.invited-bio {
+  max-width: 50rem;
+}
+
 .trim-img {
   max-height: 150px;
   overflow: hidden;

@@ -55,10 +55,23 @@ More information on these women, and many others, can be found at the exhibition
 
  - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
 
- - [Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen 
+ - [Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen
 
- - [Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo), Chief Information Security Officer at AVAST 
- 
+#### [Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo), Chief Information Security Officer at AVAST
+
+<div class="invited-speaker">
+<div class="trim-img">
+<img src="https://486579.fs1.hubspotusercontent-na1.net/hub/486579/hubfs/jaya-baloo.png?width=500&name=jaya-baloo.png" alt="Profile Photo Jaya Baloo" class="profile-img">
+</div>
+<div class="invited-bio">
+<!-- <a href="https://burcuku.github.io/home/" target="_blank">Burcu Kulahcioglu Ozkan</a> -->
+Jaya Baloo is Avast’s Chief Information Security Officer (CISO) and joined Avast in October 2019. Previously, Ms. Baloo held the position of CISO at KPN, the largest telecommunications carrier in the Netherlands, where she established and led its security team whose best practices in strategy, policy, and security operations are today recognized as world leading. Prior to this, Ms. Baloo also held the position of Practice Lead Lawful Interception at Verizon, and worked at France Telecom as a Technical Security Specialist.
+</div>
+</div>
+Ms. Baloo is formally recognized within the list of top 100 CISOs globally and ranks among the top 100 security influencers worldwide. In 2019, she was also selected as one of the fifty most inspiring women in the Netherlands by Inspiring Fifty, a non-profit aiming to raise diversity in technology by making female role models in technology more visible.  
+Ms. Baloo has been working in the field of information security, with a focus on secure network architecture, for over 20 years and sits on the advisory boards of the NL’s National Cyber Security Centre, PQCrypto and the EU Quantum Flagship’s Strategic Advisory Board. She serves on the audit committee of TIIN capital, a cybersecurity fund, and is also a member of the IT Committee of Sociale Verzekeringsbank. She is a board member of the cybersecurity firm NIXU in Finland. Since 2021 she is also a board member of the RvT of the Dutch Broadcasting station, the NOS.  
+Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Codemotion on topics including Lawful Interception, VoIP ; Mobile Security, Cryptography, and Quantum Communications Networks. Additionally, Ms. Baloo is a faculty member of the Singularity University since 2017, where she regularly lectures.
+
  - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), Professor at University of Amsterdam
  
  - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Professor at Vrije University Amsterdam, Researcher at Centrum Wiskunde & Informatica (CWI) 
@@ -102,31 +115,6 @@ The poster selection committee and jury consists of the following members: TBA
 | 16.00 - 16.15  | Poster prizes  |
 | 16.15 - 17.00  | Panel  |
 | 17.00 - 18.00  | Drinks and socials |
-
-<!-- 9.30 - 10.00 	Welcome coffee
-10.00 - 10.15 	Opening remarks
-10.15 - 10.45 	Post-quantum hash-based signatures
-Christine van Vredendaal
-10.45 - 11.15 	Coffee Break
-11.15 - 11.45 	On gender, change, attention, imposter syndrome & technology
-Jasmina Omic
-11.45 - 12.15 	Bias in Information Retrieval
-Emma Gerritse
-12.15 - 12.45 	Opening of the exhibition
-12.45 - 14.00 	Lunch and posters
-14.00 - 14.30 	Exploiting Human-Factors In Software Maintenance And Evolution
-Gemma Catolino
-14.30 - 15.00 	Reflections on Research
-Thorsten Holz
-15.00 - 15.30 	Coffee Break
-15.30 - 16.00 	Efficiency and agility: in secure hardware and in life!
-Nele Mentens
-16.00 - 16.15 	Prize for posters
-16.15 - 17.00 	AI & Me: The Good, The Bad and The Ugly
-Panel discussion chaired by Ahmad-Reza Sadeghi
-Participants: Hanna Schraffenberger, Stjepan Picek, Begul Bilgin
-17.00 	Drinks -->
-
 
 ## Our Sponsors
 
