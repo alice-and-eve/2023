@@ -70,10 +70,37 @@ More information on these women, and many others, can be found at the exhibition
  - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), Professor at University of Amsterdam
 
  - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Profile Photo Elvan Kula" class="profile-img">
+</div>
+<div class="invited-bio" style="width: 40rem">
+Elvan Kula is the Chapter Lead of Analytics & AI Research at ING. She is managing ‘AI for Fintech Research’, an ICAI lab, and research collaboration between ING and TU Delft. Next to her role as lab manager, she is a doctoral candidate at TU Delft, focusing on software effort estimation. Elvan is using automated techniques to both understand and improve software development processes in terms of efficiency and predictability.
+</div>
+</div>
+
+**Talk: Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning**  
+In today’s rapidly changing world, the ability to be agile as well as predictable is essential to modern software development companies. To become more predictable in software deliveries, it is essential to better understand which factors affect the on-time delivery of software. We performed several large-scale case studies at ING to investigate which social and technical factors affect the on-time delivery of software, how they interact with each other and how their effects change over time. We have successfully integrated these influential factors using incremental learning for delay prediction at ING. Our results indicate that the planning of software can be significantly improved by incorporating team/process-related information and dynamic methods into analysis/predictive models.
+
 
  - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Professor at Vrije University Amsterdam, Researcher at Centrum Wiskunde & Informatica (CWI) 
 
  - [Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="assets/Helle Hvid Hansen.jpeg" alt="Profile Photo Helle Hvid Hansen" class="profile-img">
+</div>
+<div class="invited-bio">
+Helle Hvid Hansen is an Associate Professor
+<!-- (adjuncthoogleraar, tenured with ius promovendi) -->
+and Rosalind Franklin Fellow at the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence at the University of Groningen. Her research focuses on logic and semantics of computation, and her interests include the development of logical and (co)algebraic methods for reasoning about programs and games.
+<!-- She holds M.Sc. degrees in Maths and Computer Science from the University of Amsterdam, and obtained her PhD at the CWI & VU Amsterdam. Prior to taking up her position in Groningen, she was an Assistant Professor at the Delft University of Technology, a postdoc and Veni fellow at the Radboud University, and a postdoc at the Eindhoven University of Technology. -->
+She has been a member or chair of numerous international program committees, she is a founding editor of the open-access journal Compositionality, and a board member of the Dutch Association for Logic and Philosophy of the Exact Sciences (VvL).
+</div>
+</div>
+**Talk: Reasoning about games vs programs.**  
+Software systems are built from many interacting components, and analyzing whether a component behaves correctly cannot be done without considering the behavior of the other components. In formal verification, the approach taken to analyze such systems is often game-theoretic. Game logic, introduced by Parikh in 1983, provides a formal framework for reasoning about what agents can achieve in interactions that can be modelled as determined 2-player games. Despite being introduced almost 40 years ago, and in contrast with the situation for the closely related program logic PDL, several fundamental questions about game logic have only recently been answered or remain open. In this talk, I will survey some of these results and open questions.
+
 
  - [Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo), Chief Information Security Officer at AVAST
 
@@ -87,8 +114,8 @@ Jaya Baloo is Avast’s Chief Information Security Officer (CISO) and joined Ava
 </div>
 Ms. Baloo is formally recognized within the list of top 100 CISOs globally and ranks among the top 100 security influencers worldwide. In 2019, she was also selected as one of the fifty most inspiring women in the Netherlands by Inspiring Fifty, a non-profit aiming to raise diversity in technology by making female role models in technology more visible.  
 Ms. Baloo has been working in the field of information security, with a focus on secure network architecture, for over 20 years and sits on the advisory boards of the NL’s National Cyber Security Centre, PQCrypto and the EU Quantum Flagship’s Strategic Advisory Board. She serves on the audit committee of TIIN capital, a cybersecurity fund, and is also a member of the IT Committee of Sociale Verzekeringsbank. She is a board member of the cybersecurity firm NIXU in Finland. Since 2021 she is also a board member of the RvT of the Dutch Broadcasting station, the NOS.  
-Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Codemotion on topics including Lawful Interception, VoIP ; Mobile Security, Cryptography, and Quantum Communications Networks. Additionally, Ms. Baloo is a faculty member of the Singularity University since 2017, where she regularly lectures.
- 
+Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Codemotion on topics including Lawful Interception, VoIP, Mobile Security, Cryptography, and Quantum Communications Networks. Additionally, Ms. Baloo is a faculty member of the Singularity University since 2017, where she regularly lectures.
+
 
 ## Program
 
