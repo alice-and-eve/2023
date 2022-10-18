@@ -65,7 +65,20 @@ More information on these women, and many others, can be found at the exhibition
 ## Invited Speakers
 
 
- - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Assistant Professor at Delft University of Technology 
+ - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Assistant Professor at Delft University of Technology
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="https://d2k0ddhflgrk1i.cloudfront.net/_processed_/7/f/csm_Stefanie%20Roos_fa6501c582.webp" alt="Profile Photo Stefanie Roos" class="profile-img">
+</div>
+<div class="invited-bio" style="width: 40rem">
+Stefanie Roos is an Assistant Professor at TU Delft, she works on decentralization with a focus on privacy-enhancing technologies and security. She has worked on censorship-resistant publication systems like Freenet, anonymous communication networks like Tor, and improved the scalability of blockchains.
+</div>
+</div>
+
+**Talk: Resilient Publication in the Face of State Censorship**  
+Internet censorship is wide-spread and plays a key role during protests, e.g., as the ones currently ongoing in Iran. In this talk , I will first give an overview of different scenarios for censorship and methods for circumvention. I will then discuss peer-to-peer-based approaches for publishing information in a censorship-resistant manner in more detail. In contrast to most state-of-the-art censorship-resistance systems, such approaches remain applicable if a country completely disconnects their national internet from the global internet.
+
+
 
  - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), Professor at University of Amsterdam
 
