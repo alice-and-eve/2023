@@ -136,7 +136,7 @@ Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Co
 |---|---|
 | 09.30 - 10.00  | Welcome coffee |
 | 10.00 - 10.15  | Opening |
-| 10.15 - 10.45  | Talk: **Stefanie Ross**  |
+| 10.15 - 10.45  | Talk: **Stefanie Roos**  |
 | 10.45 - 11.00  | Coffree Break  |
 | 11.00 - 11.30  | Talk: **Judith Good**  |
 | 11.30 - 12.00  | Talk: **Elvan Kula**  |
