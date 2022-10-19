@@ -65,7 +65,7 @@ More information on these women, and many others, can be found at the exhibition
 ## Invited Speakers
 
 
- - [Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos), Assistant Professor at Delft University of Technology
+ - **[Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos)**, Assistant Professor at Delft University of Technology
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="https://d2k0ddhflgrk1i.cloudfront.net/_processed_/7/f/csm_Stefanie%20Roos_fa6501c582.webp" alt="Profile Photo Stefanie Roos" class="profile-img">
@@ -80,9 +80,9 @@ Internet censorship is wide-spread and plays a key role during protests, e.g., a
 
 
 
- - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb), Professor at University of Amsterdam
+ - **[Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb)**, Professor at University of Amsterdam
 
- - [Elvan Kula](https://www.linkedin.com/in/elvan-kula/), Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
+ - **[Elvan Kula](https://www.linkedin.com/in/elvan-kula/)**, Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Profile Photo Elvan Kula" class="profile-img">
@@ -96,9 +96,21 @@ Elvan Kula is the Chapter Lead of Analytics & AI Research at ING. She is managin
 In today’s rapidly changing world, the ability to be agile as well as predictable is essential to modern software development companies. To become more predictable in software deliveries, it is essential to better understand which factors affect the on-time delivery of software. We performed several large-scale case studies at ING to investigate which social and technical factors affect the on-time delivery of software, how they interact with each other and how their effects change over time. We have successfully integrated these influential factors using incremental learning for delay prediction at ING. Our results indicate that the planning of software can be significantly improved by incorporating team/process-related information and dynamic methods into analysis/predictive models.
 
 
- - [Peter Boncz](https://homepages.cwi.nl/~boncz/), Professor at Vrije University Amsterdam, Researcher at Centrum Wiskunde & Informatica (CWI) 
+ - **[Peter Boncz](https://homepages.cwi.nl/~boncz/)**, Professor at Vrije University Amsterdam, Researcher at Centrum Wiskunde & Informatica (CWI) 
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="assets/Peter Boncz.jpeg" alt="Profile Photo Peter Boncz" class="profile-img">
+</div>
+<div class="invited-bio">
+Peter Boncz holds appointments as tenured researcher at CWI and professor at VU University Amsterdam. His academic background is in database systems, with the open-source column-store MonetDB the outcome of his PhD. He has a track record in bridging the gap between academia and commercial application, for which he received an ICT Regie Award in 2006. In 2008 he co-founded Vectorwise around the analytical database system by the same name which pioneered vectorized query execution. This initiative later led to the establishment of the R&D center of Databricks in The Netherlands. His later work in graph data management resulted in the non-commercial organization Linked Database Benchmark Council (LDBC), which now cooperates in the creation of the new ISO standard query languages SQL/PGQ and GQL. He also co-founded the SIGMOD workshops DAMON and GRADES, the <a href="https://dsdsd.da.cwi.nl"> Dutch Seminar on Data Systems Design </a> and he is general chair of <a href="https://cidrdb.org"> CIDR </a> (that will be held January 2023 in Amsterdam). His most recent new activity is in advising the new startup around <a href="https://duckdb.org"> DuckDB</a>, founded by CWI colleagues Hannes Mühleisen and Mark Raasveldt.
 
- - [Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en), Associate Professor at University of Groningen
+</div>
+</div>
+**Talk: Experiences in Systems Research with Impact.**  
+The task of defining a research track with original contributions and impact can appear daunting, due to the many possible choices of direction that one can make, but also the increasing maturity of the field of computing, its growth and the increased sense of competition that comes with that. The systems side of computer science, where I am active, has very many direct applications outside academia, and my personal preference has been to select topics and direction that can make an impact there.  This talk will be structured around my personal experiences in the area of data systems research in the past decades. I will share some of my viewpoints on fundamental vs. applied research, trends in research practice that can diminish the impact of research, and strategies to make research more impactful, including community building, communication, open-source and spin-offs; and hope to discuss these with the audience as well.
+
+
+ - **[Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en)**, Associate Professor at University of Groningen
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="assets/Helle Hvid Hansen.jpeg" alt="Profile Photo Helle Hvid Hansen" class="profile-img">
@@ -115,7 +127,7 @@ She has been a member or chair of numerous international program committees, she
 Software systems are built from many interacting components, and analyzing whether a component behaves correctly cannot be done without considering the behavior of the other components. In formal verification, the approach taken to analyze such systems is often game-theoretic. Game logic, introduced by Parikh in 1983, provides a formal framework for reasoning about what agents can achieve in interactions that can be modelled as determined 2-player games. Despite being introduced almost 40 years ago, and in contrast with the situation for the closely related program logic PDL, several fundamental questions about game logic have only recently been answered or remain open. In this talk, I will survey some of these results and open questions.
 
 
- - [Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo), Chief Information Security Officer at AVAST
+ - **[Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo)**, Chief Information Security Officer at AVAST
 
 <div class="invited-speaker">
 <div class="trim-img">
