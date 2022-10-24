@@ -1,11 +1,14 @@
 - title: Registration
   url: /#registration
 
-- title: Exhibition
-  url: /#exhibition
-
 - title: Call for Posters
   url: /#call-for-posters
+
+- title: Invited Speakers
+  url: /#invited-speakers
+
+- title: Exhibition
+  url: /#exhibition
 
 - title: Venue
   url: /#venue

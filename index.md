@@ -41,7 +41,7 @@ You will receive instructions about your poster with the acceptance notification
 
 ### Important dates:
 
-    Poster abstract submsision deadline: 28 October 2022
+    Poster abstract submission deadline: 28 October 2022
     Notification of accepted posters: 4 November 2022
       
 ### Poster Selection Committee
@@ -81,6 +81,17 @@ Internet censorship is wide-spread and plays a key role during protests, e.g., a
 
 
  - **[Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb)**, Professor at University of Amsterdam
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="https://www.uva.nl/binaries/content/documents/personalpages/g/o/j.a.good/j.a.good/j.a.good/uva%3Aprofileimagecompound" alt="Profile Photo Judith Good" class="profile-img">
+</div>
+<div class="invited-bio" style="">
+Judith Good is Professor of Human Computer Interaction in the Informatics Institute at the University of Amsterdam, and director of the newly founded Digital Interactions Lab. She has degrees in psychology and artificial intelligence, and has worked at universities in both Europe and the United States. Her overarching research aim is to develop impactful technologies, designed with end users from the outset, which can have a transformative and empowering effect on the people who use them. Within this broad area, she has focussed on better understanding how people learn, and on how innovative technologies can best support their learning. She is particularly interested in working with people with disabilities, particularly autism, to design technologies which improve their lived experiences. Judith was also actively involved in a number of initiatives to support women and girls in STEM subjects whilst in the UK, and is continuing this work in the Netherlands.
+</div>
+</div>
+
+**Talk: Towards a more inclusive digital society**  
+Much of the research in human computer interaction takes the form of finding a solution to a ‘problem’, typically by designing a new technology that can solve this problem, or at least go some way towards addressing it. The implicit assumption is that the worse the problem, the more any solution, and hence the research contribution, will be noteworthy and important. This creates tensions when designing for disability, with target users and/or their characteristics, often being framed as somehow problematic. This, in turn, leads to “solutions” which are not fit for purpose. In this talk, I will consider how we might take a different approach to technology design for disability, with the aim of leading to positive changes in what/how/why we design.
 
  - **[Elvan Kula](https://www.linkedin.com/in/elvan-kula/)**, Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
 <div class="invited-speaker" style="margin-bottom: 10px">
