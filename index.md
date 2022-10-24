@@ -41,8 +41,8 @@ You will receive instructions about your poster with the acceptance notification
 
 ### Important dates:
 
-    Poster abstract submsision deadline: 24 October 2022
-    Notification of accepted posters: 1 November 2022
+    Poster abstract submsision deadline: 28 October 2022
+    Notification of accepted posters: 4 November 2022
       
 ### Poster Selection Committee
 
