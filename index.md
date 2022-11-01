@@ -44,9 +44,15 @@ You will receive instructions about your poster with the acceptance notification
     Poster abstract submission deadline: 28 October 2022
     Notification of accepted posters: 4 November 2022
       
-### Poster Selection Committee
+### PC Members
 
-The poster selection committee and jury consists of the following members: TBA
+The program committee consists of the following members: 
+- Savvina Daniil (PhD Candidate @ CWI - Centrum Wiskunde & Informatica) 
+- Carolin Brandt (PhD Candidate @ TUD - Technische Universiteit Delft) 
+- Una Kelly (PhD Candidate @ UT - Universiteit Twente)
+- Mitchell Olsthoorn (PhD Candidate @ TUD - Technische Universiteit Delft)
+- Daphnee Chabal (PhD Candidate @ UvA - Universiteit van Amsterdam)
+- Thomas Beelen(PhD Candidate @ UT - Universiteit Twente) 
 
   
 ## Exhibition
