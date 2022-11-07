@@ -310,17 +310,10 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
         <img src="assets/sponsors-logo/SIDN.png" 
             alt="Logo SIDN" style="max-width: 30%">
       </div>
-      <div class="margin-top">
-        <img src="" 
-            alt="Logo Jetbrains" style="max-width: 30%">
-      </div>
     </div>
 
   <h2>Bronze</h2>
   <div class="sponsors">
-    <div>
-      <img src="" alt="Logo SIKS" style="max-width: 1000%">
-    </div>
     <div class="margin-top">
       <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 80%">
     </div>
