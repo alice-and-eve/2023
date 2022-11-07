@@ -9,10 +9,8 @@ Welcome to our free one-day workshop for celebrating women studying and working 
 Alice & Eve aims to bring together talents in the field of computing. The third edition of this workshop will be hosted
 on **18 November 2022** by the Delft University of Technology.
 
-Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in
-
-2008. For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/)
-      and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
+Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/)
+and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
 
 The event is held during a single day, and features:
 
@@ -235,8 +233,7 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
 | 10.15 - 10.45  | Talk: **Stefanie Roos** - Resilient Publication in the Face of State Censorship |
 | 10.45 - 11.00  | Coffee Break  |
 | 11.00 - 11.30  | Talk: **Judith Good** - Towards a more inclusive digital society |
-| 11.30 - 12.00  | Talk: **Elvan
-Kula** - Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning |
+| 11.30 - 12.00  | Talk: **Elvan Kula** - Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning |
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
 | 14.00 - 14.30  | Talk: **Peter Boncz** - Experiences in Systems Research with Impact |
