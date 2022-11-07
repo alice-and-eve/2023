@@ -210,9 +210,7 @@ Zeki Erkin is an associate professor in the Cyber Security Group, Delft Universi
 </div>
 </div>
 
-
-- **[Maria Luce Lupetti](https://www.marialucelupetti.com/)**, Assistant Professor,
-  Delft University of Technology
+- **[Maria Luce Lupetti](https://www.marialucelupetti.com/)**, Assistant Professor, Delft University of Technology
 
 <div class="invited-speaker">
 <div class="trim-img">
@@ -237,7 +235,8 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
 | 10.15 - 10.45  | Talk: **Stefanie Roos** - Resilient Publication in the Face of State Censorship |
 | 10.45 - 11.00  | Coffee Break  |
 | 11.00 - 11.30  | Talk: **Judith Good** - Towards a more inclusive digital society |
-| 11.30 - 12.00  | Talk: **Elvan Kula** - Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning |
+| 11.30 - 12.00  | Talk: **Elvan
+Kula** - Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning |
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
 | 14.00 - 14.30  | Talk: **Peter Boncz** - Experiences in Systems Research with Impact |
@@ -287,7 +286,52 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
 
 ## Our Sponsors
 
-Do you want to support us connect women in computing by sponsering Alice & Eve? Please contact the organizers!
+<div style="text-align: center">
+  <h2>Gold</h2>
+  <div class="sponsors">
+    <div >
+      <img src="assets/sponsors-logo/BetterBe%20Corporate%20Identity%20files%20001/betterbe-logo-rgb-fordarkbackgrounds.png" 
+          alt="Logo BetterBe" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <h3>DuckDB Foundation</h3>
+      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="DuckDB Logo" style="max-width: 40%"/>
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/Re__Sponsoring_the_%22Alice_and_Eve%22_workshop/TOPdesk_RGB_Logo_Tagline.png" 
+        alt="TOPDesk Logo" style="max-width: 35%"/>
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/large-bolcom_logo_blauw_rgb.jpg" 
+        alt="bol.com Logo" style="max-width: 35%"/>
+    </div>
+  </div>
+
+  <h2>Silver</h2>
+    <div class="sponsors">
+      <div >
+        <img src="assets/sponsors-logo/SIDN.png" 
+            alt="Logo SIDN" style="max-width: 30%">
+      </div>
+      <div class="margin-top">
+        <img src="" 
+            alt="Logo Jetbrains" style="max-width: 30%">
+      </div>
+    </div>
+
+  <h2>Bronze</h2>
+  <div class="sponsors">
+    <div>
+      <img src="" alt="Logo SIKS" style="max-width: 1000%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 80%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 25%">
+    </div>
+  </div>
+</div>
 
 ## Contact Us
 
@@ -295,6 +339,6 @@ For questions regarding the workshop, please [contact the organizers](mailto:Bur
 Ionescu <A.Ionescu-3@tudelft.nl>?subject=[Alice and Eve 2022] Question)!
 
 <div class="orga">
-<img src="assets/DO_Mondai_LOGO_futuristischblauw.png" alt="Logo Monday House of AI" title="" style="max-width: 50%">
-<img src="assets/TU_d_line_P1_color.png" alt="Logo TU Delft" style="max-width: 50%">
+<img src="assets/DO_Mondai_LOGO_futuristischblauw.png" alt="Logo Monday House of AI" title="" style="max-width: 40%">
+<img src="assets/TU_d_line_P1_color.png" alt="Logo TU Delft" style="max-width: 40%">
 </div>
