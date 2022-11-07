@@ -6,13 +6,16 @@ layout: default
 
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
-Alice & Eve aims to bring together talents in the field of computing.
-The third edition of this workshop will be hosted on **18 November 2022** by the Delft University of Technology.
+Alice & Eve aims to bring together talents in the field of computing. The third edition of this workshop will be hosted
+on **18 November 2022** by the Delft University of Technology.
 
-Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008.
-For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/) and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
+Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in
+
+2008. For more details about earlier editions of Alice & Eve, see the websites of [2021](https://aliceandeve.cs.ru.nl/)
+      and [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/).
 
 The event is held during a single day, and features:
+
 - keynote talks,
 - a poster contest, and
 - an exhibition on women in computing.
@@ -21,20 +24,27 @@ Join us, and participate to our poster contest on the topic of your choice!
 
 ### Venue:
 
-The workshop will be held at [Mondai House of AI @ Next Delft](https://mondai.tudelftcampus.nl/en/) at the TU Delft campus.
+The workshop will be held at [Mondai House of AI @ Next Delft](https://mondai.tudelftcampus.nl/en/) at the TU Delft
+campus.
 
 ### Registration:
 
-The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
+The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from
+bachelor students to full professors**, to attend the event.
 
-If you would like to attend the workshop, please [register here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/).
+If you would like to attend the workshop,
+please [register here](https://mondai.tudelftcampus.nl/en/event/alice-and-eve-celebrating-women-in-computing/).
 
 ## Call for Posters
 
-All women students (Bachelor/Master/PhD) and postdocs of computing and related subjects are invited to enter one of the poster contests during Alice & Eve 2022. We interpret “related subjects” very broadly – we would like to involve everybody in the area of computing in the broadest sense. If you are not sure, drop the organizers an email and we will probably say yes.
+All women students (Bachelor/Master/PhD) and postdocs of computing and related subjects are invited to enter one of the
+poster contests during Alice & Eve 2022. We interpret “related subjects” very broadly – we would like to involve
+everybody in the area of computing in the broadest sense. If you are not sure, drop the organizers an email and we will
+probably say yes.
 
-To enter the poster contest, please write a one page abstract (minimum 250 words) on the topic of your poster.
-Your abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing; and from medical image processing to formal verification. If it involves computers, we’re interested.
+To enter the poster contest, please write a one page abstract (minimum 250 words) on the topic of your poster. Your
+abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing;
+and from medical image processing to formal verification. If it involves computers, we’re interested.
 
 Please submit your abstracts via [EasyChair](https://easychair.org/conferences/?conf=ae22).  
 You will receive instructions about your poster with the acceptance notification e-mail.
@@ -43,35 +53,40 @@ You will receive instructions about your poster with the acceptance notification
 
     Poster abstract submission deadline: 28 October 2022
     Notification of accepted posters: 4 November 2022
-      
+
 ### PC Members
 
-The program committee consists of the following members: 
-- Savvina Daniil (PhD Candidate @ CWI - Centrum Wiskunde & Informatica) 
-- Carolin Brandt (PhD Candidate @ TUD - Technische Universiteit Delft) 
+The program committee consists of the following members:
+
+- Savvina Daniil (PhD Candidate @ CWI - Centrum Wiskunde & Informatica)
+- Carolin Brandt (PhD Candidate @ TUD - Technische Universiteit Delft)
 - Una Kelly (PhD Candidate @ UT - Universiteit Twente)
 - Mitchell Olsthoorn (PhD Candidate @ TUD - Technische Universiteit Delft)
 - Daphnee Chabal (PhD Candidate @ UvA - Universiteit van Amsterdam)
-- Thomas Beelen(PhD Candidate @ UT - Universiteit Twente) 
+- Thomas Beelen(PhD Candidate @ UT - Universiteit Twente)
 
-  
 ## Exhibition
 
-In addition to the keynote talks and the posters, there will be an exhibition which portrays thirty women in computing and their most important contributions.
+In addition to the keynote talks and the posters, there will be an exhibition which portrays thirty women in computing
+and their most important contributions.
 
-Some highlights of the exhibition:  
-- **Grace Hopper** who created the world’s first workable compiler;  
-- **Ada Lovelace** who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;  
-- **Rosalind Picard** and her work on Affective Computing which is a combination of Computer Science, Psychology, Physiology and Cognitive Sciences;  
-- **Frances Brazier** who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.  
+Some highlights of the exhibition:
 
-More information on these women, and many others, can be found at the exhibition and the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
+- **Grace Hopper** who created the world’s first workable compiler;
+- **Ada Lovelace** who is known for her work on the design of the ‘Analytics Machine’, the first ever general-purpose
+  computer, and the first published algorithm;
+- **Rosalind Picard** and her work on Affective Computing which is a combination of Computer Science, Psychology,
+  Physiology and Cognitive Sciences;
+- **Frances Brazier** who helped establish the first Internet Service Provider (ISP) in the Netherlands and Europe.
 
+More information on these women, and many others, can be found at the exhibition and
+the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
 
 ## Invited Speakers
 
+- **[Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos)**
+  , Assistant Professor at Delft University of Technology
 
- - **[Stefanie Roos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos)**, Assistant Professor at Delft University of Technology
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="https://d2k0ddhflgrk1i.cloudfront.net/_processed_/7/f/csm_Stefanie%20Roos_fa6501c582.webp" alt="Profile Photo Stefanie Roos" class="profile-img">
@@ -82,11 +97,14 @@ Stefanie Roos is an Assistant Professor at TU Delft, she works on decentralizati
 </div>
 
 **Talk: Resilient Publication in the Face of State Censorship**  
-Internet censorship is wide-spread and plays a key role during protests, e.g., as the ones currently ongoing in Iran. In this talk , I will first give an overview of different scenarios for censorship and methods for circumvention. I will then discuss peer-to-peer-based approaches for publishing information in a censorship-resistant manner in more detail. In contrast to most state-of-the-art censorship-resistance systems, such approaches remain applicable if a country completely disconnects their national internet from the global internet.
+Internet censorship is wide-spread and plays a key role during protests, e.g., as the ones currently ongoing in Iran. In
+this talk , I will first give an overview of different scenarios for censorship and methods for circumvention. I will
+then discuss peer-to-peer-based approaches for publishing information in a censorship-resistant manner in more detail.
+In contrast to most state-of-the-art censorship-resistance systems, such approaches remain applicable if a country
+completely disconnects their national internet from the global internet.
 
+- **[Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb)**, Professor at University of Amsterdam
 
-
- - **[Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html?cb)**, Professor at University of Amsterdam
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="https://www.uva.nl/binaries/content/documents/personalpages/g/o/j.a.good/j.a.good/j.a.good/uva%3Aprofileimagecompound" alt="Profile Photo Judith Good" class="profile-img">
@@ -97,9 +115,17 @@ Judith Good is Professor of Human Computer Interaction in the Informatics Instit
 </div>
 
 **Talk: Towards a more inclusive digital society**  
-Much of the research in human computer interaction takes the form of finding a solution to a ‘problem’, typically by designing a new technology that can solve this problem, or at least go some way towards addressing it. The implicit assumption is that the worse the problem, the more any solution, and hence the research contribution, will be noteworthy and important. This creates tensions when designing for disability, with target users and/or their characteristics, often being framed as somehow problematic. This, in turn, leads to “solutions” which are not fit for purpose. In this talk, I will consider how we might take a different approach to technology design for disability, with the aim of leading to positive changes in what/how/why we design.
+Much of the research in human computer interaction takes the form of finding a solution to a ‘problem’, typically by
+designing a new technology that can solve this problem, or at least go some way towards addressing it. The implicit
+assumption is that the worse the problem, the more any solution, and hence the research contribution, will be noteworthy
+and important. This creates tensions when designing for disability, with target users and/or their characteristics,
+often being framed as somehow problematic. This, in turn, leads to “solutions” which are not fit for purpose. In this
+talk, I will consider how we might take a different approach to technology design for disability, with the aim of
+leading to positive changes in what/how/why we design.
 
- - **[Elvan Kula](https://www.linkedin.com/in/elvan-kula/)**, Chapter Lead at ING Bank, Ph.D. student at Delft University of Technology
+- **[Elvan Kula](https://www.linkedin.com/in/elvan-kula/)**, Chapter Lead at ING Bank, Ph.D. student at Delft University
+  of Technology
+
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Profile Photo Elvan Kula" class="profile-img">
@@ -110,10 +136,17 @@ Elvan Kula is the Chapter Lead of Analytics & AI Research at ING. She is managin
 </div>
 
 **Talk: Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning**  
-In today’s rapidly changing world, the ability to be agile as well as predictable is essential to modern software development companies. To become more predictable in software deliveries, it is essential to better understand which factors affect the on-time delivery of software. We performed several large-scale case studies at ING to investigate which social and technical factors affect the on-time delivery of software, how they interact with each other and how their effects change over time. We have successfully integrated these influential factors using incremental learning for delay prediction at ING. Our results indicate that the planning of software can be significantly improved by incorporating team/process-related information and dynamic methods into analysis/predictive models.
+In today’s rapidly changing world, the ability to be agile as well as predictable is essential to modern software
+development companies. To become more predictable in software deliveries, it is essential to better understand which
+factors affect the on-time delivery of software. We performed several large-scale case studies at ING to investigate
+which social and technical factors affect the on-time delivery of software, how they interact with each other and how
+their effects change over time. We have successfully integrated these influential factors using incremental learning for
+delay prediction at ING. Our results indicate that the planning of software can be significantly improved by
+incorporating team/process-related information and dynamic methods into analysis/predictive models.
 
+- **[Peter Boncz](https://homepages.cwi.nl/~boncz/)**, Professor at Vrije University Amsterdam, Researcher at Centrum
+  Wiskunde & Informatica (CWI)
 
- - **[Peter Boncz](https://homepages.cwi.nl/~boncz/)**, Professor at Vrije University Amsterdam, Researcher at Centrum Wiskunde & Informatica (CWI) 
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="assets/Peter Boncz.jpeg" alt="Profile Photo Peter Boncz" class="profile-img">
@@ -126,8 +159,8 @@ Peter Boncz holds appointments as tenured researcher at CWI and professor at VU 
 **Talk: Experiences in Systems Research with Impact.**  
 The task of defining a research track with original contributions and impact can appear daunting, due to the many possible choices of direction that one can make, but also the increasing maturity of the field of computing, its growth and the increased sense of competition that comes with that. The systems side of computer science, where I am active, has very many direct applications outside academia, and my personal preference has been to select topics and direction that can make an impact there.  This talk will be structured around my personal experiences in the area of data systems research in the past decades. I will share some of my viewpoints on fundamental vs. applied research, trends in research practice that can diminish the impact of research, and strategies to make research more impactful, including community building, communication, open-source and spin-offs; and hope to discuss these with the audience as well.
 
+- **[Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en)**, Associate Professor at University of Groningen
 
- - **[Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en)**, Associate Professor at University of Groningen
 <div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="assets/Helle Hvid Hansen.jpeg" alt="Profile Photo Helle Hvid Hansen" class="profile-img">
@@ -143,8 +176,7 @@ She has been a member or chair of numerous international program committees, she
 **Talk: Reasoning about games vs programs.**  
 Software systems are built from many interacting components, and analyzing whether a component behaves correctly cannot be done without considering the behavior of the other components. In formal verification, the approach taken to analyze such systems is often game-theoretic. Game logic, introduced by Parikh in 1983, provides a formal framework for reasoning about what agents can achieve in interactions that can be modelled as determined 2-player games. Despite being introduced almost 40 years ago, and in contrast with the situation for the closely related program logic PDL, several fundamental questions about game logic have only recently been answered or remain open. In this talk, I will survey some of these results and open questions.
 
-
- - **[Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo)**, Chief Information Security Officer at AVAST
+- **[Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo)**, Chief Information Security Officer at AVAST
 
 <div class="invited-speaker">
 <div class="trim-img">
@@ -158,6 +190,43 @@ Ms. Baloo is formally recognized within the list of top 100 CISOs globally and r
 Ms. Baloo has been working in the field of information security, with a focus on secure network architecture, for over 20 years and sits on the advisory boards of the NL’s National Cyber Security Centre, PQCrypto and the EU Quantum Flagship’s Strategic Advisory Board. She serves on the audit committee of TIIN capital, a cybersecurity fund, and is also a member of the IT Committee of Sociale Verzekeringsbank. She is a board member of the cybersecurity firm NIXU in Finland. Since 2021 she is also a board member of the RvT of the Dutch Broadcasting station, the NOS.  
 Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Codemotion on topics including Lawful Interception, VoIP, Mobile Security, Cryptography, and Quantum Communications Networks. Additionally, Ms. Baloo is a faculty member of the Singularity University since 2017, where she regularly lectures.
 
+## Panel
+
+### Topic
+
+Trust in AI - Society perspective: Past, Present, Future
+
+### Panelists
+
+- **[Zeki Erkin](https://www.tudelft.nl/staff/z.erkin/?cHash=7bdc736d96a12a4492bb7e8de0e2987a)**, Associate Professor,
+  Delft University of Technology
+
+<div class="invited-speaker">
+<div class="trim-img">
+<img src="assets/zeki_erkin.webp" alt="Profile Photo Zeki Erkin" class="profile-img">
+</div>
+<div class="invited-bio">
+Zeki Erkin is an associate professor in the Cyber Security Group, Delft University of Technology. He received his PhD degree on “Secure Signal Processing” in 2010 from Delft University of Technology where he has continued his research on Privacy Enhancing Technologies, particularly on Computational Privacy. His interest is on protecting sensitive data from malicious entities and service providers using cryptographic tools. While his interest on solutions based on provably secure cryptographic protocols is the core of his research, Dr. Erkin is also investigating distributed trust for building such protocols without trusted entities.
+</div>
+</div>
+
+
+- **[Maria Luce Lupetti](https://www.marialucelupetti.com/)**, Assistant Professor,
+  Delft University of Technology
+
+<div class="invited-speaker">
+<div class="trim-img">
+<img src="assets/Luce.jpg" alt="Profile Photo Maria Luce Lupetti" class="profile-img">
+</div>
+<div class="invited-bio">
+Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industrial Design Engineering, TU Delft (
+  NL). She studied 'Industrial Design' at ISIA Roma Design (B.A.) and pursued a master in 'Ecodesign' and a PhD in '
+  Production, Managment and Design' at Politecnico di Torino (M.Sc.) in Italy. Her current research, at the intersection
+  of design, ethics, AI and robotics, is focused on understanding and designing responsible human-technology relations.
+  Specifically, she investigates how critical design methods can be used to promote conscious and responsible approaches
+  to AI systems development.
+</div>
+</div>
 
 ## Program
 
@@ -165,20 +234,19 @@ Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Co
 |---|---|
 | 09.30 - 10.00  | Welcome coffee |
 | 10.00 - 10.15  | Opening |
-| 10.15 - 10.45  | Talk: **Stefanie Roos**  |
+| 10.15 - 10.45  | Talk: **Stefanie Roos** - Resilient Publication in the Face of State Censorship |
 | 10.45 - 11.00  | Coffee Break  |
-| 11.00 - 11.30  | Talk: **Judith Good**  |
-| 11.30 - 12.00  | Talk: **Elvan Kula**  |
+| 11.00 - 11.30  | Talk: **Judith Good** - Towards a more inclusive digital society |
+| 11.30 - 12.00  | Talk: **Elvan Kula** - Enhancing the Understanding and Prediction of Software Delays at ING Using Machine Learning |
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
-| 14.00 - 14.30  | Talk: **Peter Boncz**  |
-| 14.30 - 15.00  | Talk: **Helle Hvid Hansen**  |
+| 14.00 - 14.30  | Talk: **Peter Boncz** - Experiences in Systems Research with Impact |
+| 14.30 - 15.00  | Talk: **Helle Hvid Hansen** - Reasoning about games vs programs |
 | 15.00 - 15.30  | Coffee break  |
 | 15.30 - 16.00  | On stage interview: **Jaya Baloo**  |
 | 16.00 - 16.15  | Poster prizes  |
-| 16.15 - 17.00  | Panel  |
+| 16.15 - 17.00  | Panel - **Trust in AI - Society perspective: Past, Present, Future** |
 | 17.00 - 18.00  | Drinks and socials |
-
 
 ## Organizing committee
 
@@ -209,7 +277,7 @@ Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Co
 </div>
 
 ## Steering committee
-    
+
 - [Marieke Huisman](https://people.utwente.nl/m.huisman), University of Twente (UT)
 - [Sophie Lathouwers](https://wwwhome.ewi.utwente.nl/~lathouwerssam/), University of Twente (UT)
 - [Cynthia Liem](https://www.cynthialiem.com/), Delft University of Technology (TUD)
@@ -217,14 +285,14 @@ Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Co
 - [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Eindhoven University of Technology (TU/e)
 - [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/), University of Twente (UT)
 
-
 ## Our Sponsors
 
 Do you want to support us connect women in computing by sponsering Alice & Eve? Please contact the organizers!
 
 ## Contact Us
 
-For questions regarding the workshop, please [contact the organizers](mailto:Burcu Özkan <B.Ozkan@tudelft.nl>, Andra Ionescu <A.Ionescu-3@tudelft.nl>?subject=[Alice and Eve 2022] Question)!
+For questions regarding the workshop, please [contact the organizers](mailto:Burcu Özkan <B.Ozkan@tudelft.nl>, Andra
+Ionescu <A.Ionescu-3@tudelft.nl>?subject=[Alice and Eve 2022] Question)!
 
 <div class="orga">
 <img src="assets/DO_Mondai_LOGO_futuristischblauw.png" alt="Logo Monday House of AI" title="" style="max-width: 50%">
