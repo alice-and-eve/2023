@@ -276,16 +276,17 @@ pre > code {
   display: unset;
 }
 
-.container .img {
-  max-width: 50%;
+.container .sponsors img {
+  max-width: 50% !important;
 }
 
 .sponsors {
   //display: flex;
-  gap: 10px;
-  align-items: center;
+  // gap: 10px;
+  // align-items: center;
 }
 
 .margin-top{
-  margin-top: 6vh;
+  // margin-top: 3vh;
+  flex: 1 1 0px;
 }

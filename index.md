@@ -199,7 +199,7 @@ Trust in AI - Society perspective: Past, Present, Future
 - **[Zeki Erkin](https://www.tudelft.nl/staff/z.erkin/?cHash=7bdc736d96a12a4492bb7e8de0e2987a)**, Associate Professor,
   Delft University of Technology
 
-<div class="invited-speaker">
+<div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="assets/zeki_erkin.webp" alt="Profile Photo Zeki Erkin" class="profile-img">
 </div>
@@ -210,7 +210,7 @@ Zeki Erkin is an associate professor in the Cyber Security Group, Delft Universi
 
 - **[Maria Luce Lupetti](https://www.marialucelupetti.com/)**, Assistant Professor, Delft University of Technology
 
-<div class="invited-speaker">
+<div class="invited-speaker" style="margin-bottom: 10px">
 <div class="trim-img">
 <img src="assets/Luce.jpg" alt="Profile Photo Maria Luce Lupetti" class="profile-img">
 </div>
@@ -285,8 +285,8 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
 
 <div style="text-align: center">
   <h2>GOLD</h2>
-  <div class="sponsors">
-    <div >
+  <div class="sponsors orga">
+    <div class="margin-top">
       <img src="assets/sponsors-logo/BetterBe%20Corporate%20Identity%20files%20001/betterbe-logo-rgb-fordarkbackgrounds.png" 
           alt="Logo BetterBe" style="max-width: 100%">
     </div>
@@ -294,6 +294,9 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
       <h3>DuckDB Foundation</h3>
       <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="DuckDB Logo" style="max-width: 40%"/>
     </div>
+  </div>
+
+  <div class="sponsors orga">
     <div class="margin-top">
       <img src="assets/sponsors-logo/Re__Sponsoring_the_%22Alice_and_Eve%22_workshop/TOPdesk_RGB_Logo_Tagline.png" 
         alt="TOPDesk Logo" style="max-width: 35%"/>
@@ -305,20 +308,20 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
   </div>
 
   <h2 class="margin-top">SILVER</h2>
-    <div class="sponsors">
-      <div >
+    <div class="sponsors orga">
+      <div class="margin-top">
         <img src="assets/sponsors-logo/SIDN.png" 
-            alt="Logo SIDN" style="max-width: 30%">
+            alt="Logo SIDN" style="max-width: 35% !important">
       </div>
         <div class="margin-top">
             <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" 
-                alt="JetBrains Logo (Main) logo." style="max-width: 20%">
+                alt="JetBrains Logo (Main) logo." style="max-width: 25% !important">
         </div>
     </div>
 
   <h2 class="margin-top">BRONZE</h2>
-  <div class="sponsors">
-    <div>
+  <div class="sponsors orga">
+    <div class="margin-top">
       <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 80%">
     </div>
     <div class="margin-top">
