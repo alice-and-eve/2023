@@ -284,7 +284,7 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
 ## Our Sponsors
 
 <div style="text-align: center">
-  <h2>Gold</h2>
+  <h2>GOLD</h2>
   <div class="sponsors">
     <div >
       <img src="assets/sponsors-logo/BetterBe%20Corporate%20Identity%20files%20001/betterbe-logo-rgb-fordarkbackgrounds.png" 
@@ -304,18 +304,25 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
     </div>
   </div>
 
-  <h2>Silver</h2>
+  <h2 class="margin-top">SILVER</h2>
     <div class="sponsors">
       <div >
         <img src="assets/sponsors-logo/SIDN.png" 
             alt="Logo SIDN" style="max-width: 30%">
       </div>
+        <div class="margin-top">
+            <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" 
+                alt="JetBrains Logo (Main) logo." style="max-width: 20%">
+        </div>
     </div>
 
-  <h2>Bronze</h2>
+  <h2 class="margin-top">BRONZE</h2>
   <div class="sponsors">
-    <div class="margin-top">
+    <div>
       <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 80%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/siks300.png" alt="Logo SIKS" style="max-width: 35%">
     </div>
     <div class="margin-top">
       <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 25%">
