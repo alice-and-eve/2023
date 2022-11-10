@@ -224,6 +224,17 @@ Maria Luce Lupetti is an Assistant Professor in Design at the faculty of Industr
 </div>
 </div>
 
+- **[Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi)**, Assistant Professor, Delft University of Technology
+
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="assets/seyran.webp" alt="Profile Photo Seyran Khademi" class="profile-img">
+</div>
+<div class="invited-bio">
+Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Architecture and the Built Environment (ABE) and the co-director of AiDAPT lab (AI for Design, Analysis, and Optimization in Architecture and the Built Environment). She is working as an interdisciplinary researcher between Computer Vision lab and Architecture Department at ABE. Her research interest lies at the intersection of Data, Computer Vision and Deep Learning in the context of man-made imagery including illustrations and visual data for Architectural Design.
+</div>
+</div>
+
 ## Program
 
 | Time |  |
