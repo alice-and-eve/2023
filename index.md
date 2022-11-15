@@ -315,10 +315,23 @@ Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Arc
 ## Our Sponsors
 
 <div style="text-align: center">
+  <h2>PLATINUM</h2>
+  <div class="sponsors orga" style="gap: 30px">
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 100% !important">
+    </div>
+    <div class="margin-top">
+      <img src="assets/DO_Mondai_LOGO_futuristischblauw.png" alt="Logo Monday House of AI" title="" style="max-width: 100% !important">
+    </div>
+    <div class="margin-top">
+      <img src="assets/TU_d_line_P1_color.png" alt="Logo TU Delft" style="max-width: 100% !important">
+    </div>
+  </div>
+
   <h2>GOLD</h2>
   <div class="sponsors orga">
     <div class="margin-top">
-      <img src="assets/sponsors-logo/BetterBe%20Corporate%20Identity%20files%20001/betterbe-logo-rgb-fordarkbackgrounds.png" 
+      <img src="assets/sponsors-logo/BetterBe%20Corporate%20Identity%20files%20001/betterbe-logo-rgb-fordarkbackgrounds.png"
           alt="Logo BetterBe" style="max-width: 100%">
     </div>
     <div class="margin-top">
