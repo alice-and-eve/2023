@@ -157,6 +157,26 @@ Peter Boncz holds appointments as tenured researcher at CWI and professor at VU 
 **Talk: Experiences in Systems Research with Impact.**  
 The task of defining a research track with original contributions and impact can appear daunting, due to the many possible choices of direction that one can make, but also the increasing maturity of the field of computing, its growth and the increased sense of competition that comes with that. The systems side of computer science, where I am active, has very many direct applications outside academia, and my personal preference has been to select topics and direction that can make an impact there.  This talk will be structured around my personal experiences in the area of data systems research in the past decades. I will share some of my viewpoints on fundamental vs. applied research, trends in research practice that can diminish the impact of research, and strategies to make research more impactful, including community building, communication, open-source and spin-offs; and hope to discuss these with the audience as well.
 
+- **[Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/)**, Professor at University of Twente
+
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="assets/MarielleStoelinga.jpeg" alt="Profile Photo Mariëlle Stoelinga" class="profile-img">
+</div>
+<div class="invited-bio">
+Prof. Dr. Mariëlle Stoelinga is a professor of risk management, both at the Radboud University Nijmegen, and the University of Twente, in the Netherlands. She leads PrimaVera, a large collaborative project on Predictive Maintenance in the Dutch National Science Agenda NWA. She also received a prestigious ERC consolidator grant. 
+
+Further  Stoelinga is the scientific programme leader  Risk Management Master, a part-time MSc programme for professionals. She holds an MSc and a PhD degree from Radboud University Nijmegen, and has spent several years as a post-doc at the University of California at Santa Cruz, USA.
+
+</div>
+</div>
+**Talk: Maintenance Meets Model Checking: Predictive Maintenance via Fault Trees and Formal Methods.**  
+No more train delays. The grand vision of Predictive Maintenance (PdM) using data analytics to predict potential failures so well, so these can be prevented by performing maintenance exactly when and where needed --- thus resulting in switches, signaling systems and signals experiencing no zero downtime.
+ 
+While predictive maintenance has its roots in mechanical and civil engineering, I will
+in this talk elaborate on how computer science lies at the heart of many challenges in predictive maintenance, especially when it comes to automation of the solutions, their specification and verification, multi-stage optimization, the complexity of IT architecture, as well as the organizational embedding of the solutions. Thus, I hope to inspire the audience to contribute to this beautiful, relevant and exciting field.
+
+<!--
 - **[Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en)**, Associate Professor at University of Groningen
 
 <div class="invited-speaker" style="margin-bottom: 10px">
@@ -165,14 +185,14 @@ The task of defining a research track with original contributions and impact can
 </div>
 <div class="invited-bio">
 Helle Hvid Hansen is an Associate Professor
-<!-- (adjuncthoogleraar, tenured with ius promovendi) -->
-and Rosalind Franklin Fellow at the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence at the University of Groningen. Her research focuses on logic and semantics of computation, and her interests include the development of logical and (co)algebraic methods for reasoning about programs and games.
-<!-- She holds M.Sc. degrees in Maths and Computer Science from the University of Amsterdam, and obtained her PhD at the CWI & VU Amsterdam. Prior to taking up her position in Groningen, she was an Assistant Professor at the Delft University of Technology, a postdoc and Veni fellow at the Radboud University, and a postdoc at the Eindhoven University of Technology. -->
+and Rosalind Franklin Fellow at the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence at the University of Groningen. Her research focuses on logic and semantics of computation, and her interests include the development of logical and (co)algebraic methods for 
 She has been a member or chair of numerous international program committees, she is a founding editor of the open-access journal Compositionality, and a board member of the Dutch Association for Logic and Philosophy of the Exact Sciences (VvL).
 </div>
 </div>
 **Talk: Reasoning about games vs programs.**  
 Software systems are built from many interacting components, and analyzing whether a component behaves correctly cannot be done without considering the behavior of the other components. In formal verification, the approach taken to analyze such systems is often game-theoretic. Game logic, introduced by Parikh in 1983, provides a formal framework for reasoning about what agents can achieve in interactions that can be modelled as determined 2-player games. Despite being introduced almost 40 years ago, and in contrast with the situation for the closely related program logic PDL, several fundamental questions about game logic have only recently been answered or remain open. In this talk, I will survey some of these results and open questions.
+
+-->
 
 - **[Jaya Baloo](https://en.wikipedia.org/wiki/Jaya_Baloo)**, Chief Information Security Officer at AVAST
 
@@ -248,7 +268,7 @@ Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Arc
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
 | 14.00 - 14.30  | Talk: **Peter Boncz** - Experiences in Systems Research with Impact |
-| 14.30 - 15.00  | Talk: **Helle Hvid Hansen** - Reasoning about games vs programs |
+| 14.30 - 15.00  | Talk: **Mariëlle Stoelinga** - Maintenance Meets Model Checking |
 | 15.00 - 15.30  | Coffee break  |
 | 15.30 - 16.00  | On stage interview: **Jaya Baloo**  |
 | 16.00 - 16.15  | Poster prizes  |
