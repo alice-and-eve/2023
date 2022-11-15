@@ -318,13 +318,13 @@ Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Arc
   <h2>PLATINUM</h2>
   <div class="sponsors orga" style="gap: 30px">
     <div class="margin-top">
-      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 100% !important">
-    </div>
-    <div class="margin-top">
-      <img src="assets/DO_Mondai_LOGO_futuristischblauw.png" alt="Logo Monday House of AI" title="" style="max-width: 100% !important">
+      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 70% !important">
     </div>
     <div class="margin-top">
       <img src="assets/TU_d_line_P1_color.png" alt="Logo TU Delft" style="max-width: 100% !important">
+    </div>
+    <div class="margin-top">
+      <img src="assets/DO_Mondai_LOGO_futuristischblauw.png" alt="Logo Monday House of AI" title="" style="max-width: 90% !important">
     </div>
   </div>
 
