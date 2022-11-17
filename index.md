@@ -170,7 +170,7 @@ Further  Stoelinga is the scientific programme leader  Risk Management Master, a
 
 </div>
 </div>
-**Talk: Maintenance Meets Model Checking: Predictive Maintenance via Fault Trees and Formal Methods.**  
+**Talk: Predictive Maintenance.**  
 No more train delays. The grand vision of Predictive Maintenance (PdM) using data analytics to predict potential failures so well, so these can be prevented by performing maintenance exactly when and where needed --- thus resulting in switches, signaling systems and signals experiencing no zero downtime.
  
 While predictive maintenance has its roots in mechanical and civil engineering, I will
@@ -285,7 +285,7 @@ Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Arc
 | 12.00 - 14.00  | Lunch |
 | 13.00 - 14.00  | Poster exhibition  |
 | 14.00 - 14.30  | Talk: **Peter Boncz** - Experiences in Systems Research with Impact |
-| 14.30 - 15.00  | Talk: **Mariëlle Stoelinga** - Maintenance Meets Model Checking |
+| 14.30 - 15.00  | Talk: **Mariëlle Stoelinga** - Predictive Maintenance |
 | 15.00 - 15.30  | Coffee break  |
 | 15.30 - 16.00  | On stage interview: **Jaya Baloo**  |
 | 16.00 - 16.15  | Poster prizes  |
