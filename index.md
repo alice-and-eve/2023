@@ -164,7 +164,7 @@ The task of defining a research track with original contributions and impact can
 <img src="assets/MarielleStoelinga.jpeg" alt="Profile Photo Mariëlle Stoelinga" class="profile-img">
 </div>
 <div class="invited-bio">
-Prof. Dr. Mariëlle Stoelinga is a professor of risk management, both at the Radboud University Nijmegen, and the University of Twente, in the Netherlands. She leads PrimaVera, a large collaborative project on Predictive Maintenance in the Dutch National Science Agenda NWA. She also received a prestigious ERC consolidator grant. 
+Mariëlle Stoelinga is a professor of risk management, both at the Radboud University Nijmegen, and the University of Twente, in the Netherlands. She leads PrimaVera, a large collaborative project on Predictive Maintenance in the Dutch National Science Agenda NWA. She also received a prestigious ERC consolidator grant. 
 
 Further  Stoelinga is the scientific programme leader  Risk Management Master, a part-time MSc programme for professionals. She holds an MSc and a PhD degree from Radboud University Nijmegen, and has spent several years as a post-doc at the University of California at Santa Cruz, USA.
 
@@ -213,6 +213,23 @@ Ms. Baloo has spoken widely at high profile conferences such as RSA, TEDx and Co
 ### Topic
 
 Trust in AI - Society perspective: Past, Present, Future
+
+### Moderator
+
+- **[Cynthia Liem](https://www.cynthialiem.com/)**, Associate Professor, Delft University of Technology
+
+<div class="invited-speaker" style="margin-bottom: 10px">
+<div class="trim-img">
+<img src="assets/cynthia.webp" alt="Profile Photo Cynthia Liem" class="profile-img">
+</div>
+<div class="invited-bio">
+Cynthia Liem is an Associate Professor at the Multimedia Computing Group. 
+In 2007 and 2009, she obtained her BSc and MSc degree in Media and Knowledge Engineering (Computer Science) at the TU Delft, 
+after which she continued pursuing a PhD at the same institution (defended in 2015). 
+Besides, she obtained the BMus (2009) and MMus (2011) degree in classical piano performance at the Royal Conservatoire in The Hague.
+</div>
+</div>
+
 
 ### Panelists
 
