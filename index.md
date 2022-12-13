@@ -292,6 +292,31 @@ Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Arc
 | 16.15 - 17.00  | Panel - **Trust in AI - Society perspective: Past, Present, Future** |
 | 17.00 - 18.00  | Drinks and socials |
 
+
+## Posters
+These posters were presented during the poster competition at Alice & Eve 2022:
+(not all posters are available yet, we will update this page as soon as we have them)
+
+<embed src="assets/posters/Poster_Loes_Kruger_A&E22.pdf" alt="Poster by Loes Kruger" maxwidth="600" height="400">
+Investigation Sprayer Issue Detection in Alfa Laval's PureSOx using Data-Driven Approaches, Loes Kruger
+<embed src="assets/posters/SOK-poster-azqa.png" alt="Poster by Azqa Nadeem" maxwidth="600" height="400">
+<!-- got public award, -->
+SoK: Explainable Machine Learning for Computer Security Applications, Azqa Nadeem
+<embed src="assets/posters/Poster-una-kelly.png" alt="Poster by Una Kelly" maxwidth="600" height="400">
+Exploring Face De-Identification using Latent Spaces, Una Kelly
+<embed src="assets/posters/poster-Kyana-van-Eijndhoven.png" alt="Poster by Kyana van Eijndhoven" maxwidth="600" height="400">
+Supporting teams during crises, Kyana van Eijndhoven
+<embed src="assets/posters/Poster_AC-TowardsSustainability_June-SALLOU.png" alt="Poster by June Sallou" maxwidth="600" height="400">
+Approximate Computing: A way towards Sustainability, June Sallou
+<embed src="assets/posters/Burcu_Alice_Eve_Poster.png" alt="Poster by Burcu Sayin" maxwidth="600" height="400">
+Towards Building Reliable Hybrid Human-Machine Classifiers, Burcu Sayin
+<embed src="assets/posters/Ana Baltaretu - EV Mask RCNN - poster.jpg" alt="Poster by Ana Băltărețu" maxwidth="600" height="400">
+EV-Mask-RCNN: Instance Segmentation in Event-based Videos, Ana Băltărețu
+<embed src="assets/posters/AliceEve22_Tanvina_Poster_A1-1.jpg" alt="Poster by Tanvina Patel" maxwidth="600" height="400">
+Reducing Bias in Automatic Speech Recognition Systems, Tanvina Patel
+<embed src="assets/posters/AliceAndEvePoster-Carolin-Brandt.pdf" alt="Poster by Carolin Brandt" maxwidth="600" height="400">
+What Developers Change Before Accepting Automatically Amplified Tests, Carolin Brandt
+
 ## Organizing committee
 
 <div class="orga">
