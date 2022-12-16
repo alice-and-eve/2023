@@ -174,7 +174,7 @@ Further  Stoelinga is the scientific programme leader  Risk Management Master, a
 No more train delays. The grand vision of Predictive Maintenance (PdM) using data analytics to predict potential failures so well, so these can be prevented by performing maintenance exactly when and where needed --- thus resulting in switches, signaling systems and signals experiencing no zero downtime.
  
 While predictive maintenance has its roots in mechanical and civil engineering, I will
-in this talk elaborate on how computer science lies at the heart of many challenges in predictive maintenance, especially when it comes to automation of the solutions, their specification and verification, multi-stage optimization, the complexity of IT architecture, as well as the organizational embedding of the solutions. Thus, I hope to inspire the audience to contribute to this beautiful, relevant and exciting field.
+in this talk elaborate on how computer science lies at the heart of many challenges in predictive maintenance, especially when it comes to automation of the solutions, their specification and verification, multi-stage optimization, the complexity of IT architecture, as well as the organizational objectding of the solutions. Thus, I hope to inspire the audience to contribute to this beautiful, relevant and exciting field.
 
 <!--
 - **[Helle Hvid Hansen](https://www.rug.nl/staff/h.h.hansen/?lang=en)**, Associate Professor at University of Groningen
@@ -297,25 +297,150 @@ Since April 2021, Seyran Khademi is an Assistant Professor at the faculty of Arc
 These posters were presented during the poster competition at Alice & Eve 2022:
 (not all posters are available yet, we will update this page as soon as we have them)
 
-<embed src="assets/posters/Poster_Loes_Kruger_A&E22.pdf" alt="Poster by Loes Kruger" maxwidth="600" height="400">
-Investigation Sprayer Issue Detection in Alfa Laval's PureSOx using Data-Driven Approaches, Loes Kruger
-<embed src="assets/posters/SOK-poster-azqa.png" alt="Poster by Azqa Nadeem" maxwidth="600" height="400">
+<div class="poster-container">
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/poster-sanja-lukumbuzya.pdf" alt="Poster by Sanja Lukumbuzya">
+alt : <a href="assets/posters/poster-sanja-lukumbuzya.pdf">poster</a>
+</object>
+<a href="assets/posters/poster-sanja-lukumbuzya.pdf"> <h4>Ontology-Enriched Data Management with Partially Complete Information</h4> </a>
+Sanja Lukumbuzya
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Poster-una-kelly.png" alt="Poster by Una Kelly">
+alt : <a href="assets/posters/Poster-una-kelly.png">poster</a>
+</object>
+<a href="assets/posters/Poster-una-kelly.png"> <h4>Exploring Face De-Identification using Latent Spaces</h4> </a>
+Una Kelly
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/eileen-kapel.pdf" alt="Poster by Eileen Kapel">
+alt : <a href="assets/posters/eileen-kapel.pdf">poster</a>
+</object>
+<a href="assets/posters/eileen-kapel.pdf"> <h4>Incident Management in a Software-Defined Business: A Case Study</h4> </a>
+Eileen Kapel
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Alice & Eve - poster -- Jin Huang.pdf" alt="Poster by Jin Huang">
+alt : <a href="assets/posters/Alice & Eve - poster -- Jin Huang.pdf">poster</a>
+</object>
+<a href="assets/posters/Alice & Eve - poster -- Jin Huang.pdf"> <h4>Debiasing Recommendations When Selection Bias and User Preferences Are Dynamic</h4> </a>
+Jin Huang
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="TODO" alt="Poster by Fatemeh Alizadeh">
+alt : <a href="">poster to be uploaded</a>
+</object>
+<a href=""> <h4>A Critique of the Making Invisible of A.I. Policing</h4> </a>
+Fatemeh Alizadeh
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Ana Baltaretu - EV Mask RCNN - poster.jpg" alt="Poster by Ana Băltărețu">
+alt : <a href="assets/posters/Ana Baltaretu - EV Mask RCNN - poster.jpg">poster</a>
+</object>
+<a href="assets/posters/Ana Baltaretu - EV Mask RCNN - poster.jpg"> <h4>EV-Mask-RCNN: Instance Segmentation in Event-based Videos</h4> </a>
+Ana Băltărețu
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Poster_AC-TowardsSustainability_June-SALLOU.png" alt="Poster by June Sallou">
+alt : <a href="assets/posters/Poster_AC-TowardsSustainability_June-SALLOU.png">poster</a>
+</object>
+<!-- 1st price -->
+<a href="assets/posters/Poster_AC-TowardsSustainability_June-SALLOU.png"> <h4>Approximate Computing: A way towards Sustainability</h4> </a>
+June Sallou
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/AliceEve22_Tanvina_Poster_A1-1.jpg" alt="Poster by Tanvina Patel">
+alt : <a href="assets/posters/AliceEve22_Tanvina_Poster_A1-1.jpg">poster</a>
+</object>
+<a href="assets/posters/AliceEve22_Tanvina_Poster_A1-1.jpg"> <h4>Reducing Bias in Automatic Speech Recognition Systems</h4> </a>
+Tanvina Patel
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/poster-Kyana-van-Eijndhoven.png" alt="Poster by Kyana van Eijndhoven">
+alt : <a href="assets/posters/poster-Kyana-van-Eijndhoven.png">poster</a>
+</object>
+<a href="assets/posters/poster-Kyana-van-Eijndhoven.png"> <h4>Supporting teams during crises</h4> </a>
+Kyana van Eijndhoven
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/AliceandEvePoster_Larissa2022.pdf" alt="Poster by Larissa Capobianco Shimomura">
+alt : <a href="assets/posters/AliceandEvePoster_Larissa2022.pdf">poster</a>
+</object>
+<!-- 3rd price -->
+<a href="assets/posters/AliceandEvePoster_Larissa2022.pdf"> <h4>Graph Generating Dependencies for Graph Data Profiling</h4> </a>
+Larissa Capobianco Shimomura
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Poster_Loes_Kruger_A&E22.pdf" alt="Poster by Loes Kruger">
+alt : <a href="assets/posters/Poster_Loes_Kruger_A&E22.pdf">poster</a>
+</object>
+<a href="assets/posters/Poster_Loes_Kruger_A&E22.pdf"> <h4>Investigation Sprayer Issue Detection in Alfa Laval's PureSOx using Data-Driven Approaches</h4> </a>
+Loes Kruger
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Burcu_Alice_Eve_Poster.png" alt="Poster by Burcu Sayin">
+alt : <a href="assets/posters/Burcu_Alice_Eve_Poster.png">poster</a>
+</object>
+<a href="assets/posters/Burcu_Alice_Eve_Poster.png"> <h4>Towards Building Reliable Hybrid Human-Machine Classifiers</h4> </a>
+Burcu Sayin
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/SOK-poster-azqa.png" alt="Poster by Azqa Nadeem">
+alt : <a href="assets/posters/SOK-poster-azqa.png">poster</a>
+</object>
 <!-- got public award, -->
-SoK: Explainable Machine Learning for Computer Security Applications, Azqa Nadeem
-<embed src="assets/posters/Poster-una-kelly.png" alt="Poster by Una Kelly" maxwidth="600" height="400">
-Exploring Face De-Identification using Latent Spaces, Una Kelly
-<embed src="assets/posters/poster-Kyana-van-Eijndhoven.png" alt="Poster by Kyana van Eijndhoven" maxwidth="600" height="400">
-Supporting teams during crises, Kyana van Eijndhoven
-<embed src="assets/posters/Poster_AC-TowardsSustainability_June-SALLOU.png" alt="Poster by June Sallou" maxwidth="600" height="400">
-Approximate Computing: A way towards Sustainability, June Sallou
-<embed src="assets/posters/Burcu_Alice_Eve_Poster.png" alt="Poster by Burcu Sayin" maxwidth="600" height="400">
-Towards Building Reliable Hybrid Human-Machine Classifiers, Burcu Sayin
-<embed src="assets/posters/Ana Baltaretu - EV Mask RCNN - poster.jpg" alt="Poster by Ana Băltărețu" maxwidth="600" height="400">
-EV-Mask-RCNN: Instance Segmentation in Event-based Videos, Ana Băltărețu
-<embed src="assets/posters/AliceEve22_Tanvina_Poster_A1-1.jpg" alt="Poster by Tanvina Patel" maxwidth="600" height="400">
-Reducing Bias in Automatic Speech Recognition Systems, Tanvina Patel
-<embed src="assets/posters/AliceAndEvePoster-Carolin-Brandt.pdf" alt="Poster by Carolin Brandt" maxwidth="600" height="400">
-What Developers Change Before Accepting Automatically Amplified Tests, Carolin Brandt
+<a href="assets/posters/SOK-poster-azqa.png">
+<h4>SoK: Explainable Machine Learning for Computer Security Applications</h4>
+</a>
+Azqa Nadeem
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Fazekas_poster.pdf" alt="Poster by Katalin Fazekas">
+alt : <a href="assets/posters/Fazekas_poster.pdf">poster</a>
+</object>
+<a href="assets/posters/Fazekas_poster.pdf"> <h4>Incremental Inprocessing in SAT Solving</h4> </a>
+Katalin Fazekas
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/AliceAndEvePoster-Carolin-Brandt.pdf" alt="Poster by Carolin Brandt">
+alt : <a href="assets/posters/AliceAndEvePoster-Carolin-Brandt.pdf">poster</a>
+</object>
+<!-- 2nd price -->
+<a href="assets/posters/AliceAndEvePoster-Carolin-Brandt.pdf"> <h4>What Developers Change Before Accepting Automatically Amplified Tests</h4> </a>
+Carolin Brandt
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/Alice_and_Eve_2022_poster_IvD.pdf" alt="Poster by Imara van Dinten">
+alt : <a href="assets/posters/Alice_and_Eve_2022_poster_IvD.pdf">poster</a>
+</object>
+<a href="assets/posters/Alice_and_Eve_2022_poster_IvD.pdf"> <h4>CPS Performance Issues: From pebble to avalanche</h4> </a>
+Imara van Dinten
+</div>
+
+<div class="poster-entry">
+<object class="poster-image" data="assets/posters/A&E_poster_miriam-garcia-soto.pdf" alt="Poster by Miriam García Soto">
+alt : <a href="assets/posters/A&E_poster_miriam-garcia-soto.pdf">poster</a>
+</object>
+<a href="assets/posters/A&E_poster_miriam-garcia-soto.pdf"> <h4>Synthesis of Hybrid Systems from Multimodal Datasets</h4> </a>
+Miriam García Soto
+</div>
+</div>
 
 ## Organizing committee
 
