@@ -316,10 +316,10 @@ Una Kelly
 </div>
 
 <div class="poster-entry">
-<object class="poster-image" data="assets/posters/eileen-kapel.pdf" alt="Poster by Eileen Kapel">
-alt : <a href="assets/posters/eileen-kapel.pdf">poster</a>
+<object class="poster-image" data="assets/posters/eileen-kapel.jpg" alt="Poster by Eileen Kapel">
+alt : <a href="assets/posters/eileen-kapel.jpg">poster</a>
 </object>
-<a href="assets/posters/eileen-kapel.pdf"> <h4>Incident Management in a Software-Defined Business: A Case Study</h4> </a>
+<a href="assets/posters/eileen-kapel.jpg"> <h4>Incident Management in a Software-Defined Business: A Case Study</h4> </a>
 Eileen Kapel
 </div>
 
