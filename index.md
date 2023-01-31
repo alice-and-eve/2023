@@ -332,10 +332,10 @@ Jin Huang
 </div>
 
 <div class="poster-entry">
-<object class="poster-image" data="TODO" alt="Poster by Fatemeh Alizadeh">
-alt : <a href="">poster to be uploaded</a>
+<object class="poster-image" data="assets/posters/Alice&Eve-Poster-Mahla.png" alt="Poster by Fatemeh Alizadeh">
+alt : <a href="assets/posters/Alice&Eve-Poster-Mahla.png">poster</a>
 </object>
-<a href=""> <h4>A Critique of the Making Invisible of A.I. Policing</h4> </a>
+<a href="assets/posters/Alice&Eve-Poster-Mahla.png"> <h4>A Critique of the Making Invisible of A.I. Policing</h4> </a>
 Fatemeh Alizadeh
 </div>
 
