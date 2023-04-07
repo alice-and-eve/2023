@@ -1,20 +1,8 @@
-- title: Registration
-  url: /#registration
-
 - title: Posters
   url: /#posters
-
-- title: Invited Speakers
-  url: /#invited-speakers
-
+  
 - title: Exhibition
-  url: /#exhibition
-
-- title: Venue
-  url: /#venue
-
-- title: Program
-  url: /#program
+  url: /#exhibition 
 
 - title: Contact
   url: /#contact-us
