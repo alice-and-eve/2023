@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- ![Header Image, Alice and Eve 2023 at TU Delft](assets/header.png) -->
+<!-- ![Header Image, Alice and Eve 2023 at TU Delft](assets/header_2023.png) -->
 
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
@@ -10,7 +10,7 @@ Alice & Eve aims to bring together talents in the field of computing. The third 
 on **end of October 2023** by University of Amsterdam.
 
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/)
-and [2022]().
+and [2022](https://alice-and-eve.github.io/2022/).
 
 The event is held during a single day, and features:
 
