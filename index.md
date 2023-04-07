@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- ![Header Image, Alice and Eve 2022 at TU Delft](assets/header.png) -->
+<!-- ![Header Image, Alice and Eve 2023 at TU Delft](assets/header.png) -->
 
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
