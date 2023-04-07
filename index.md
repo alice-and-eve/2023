@@ -40,7 +40,7 @@ To enter the poster contest, please write a one page abstract (minimum 250 words
 abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing;
 and from medical image processing to formal verification. If it involves computers, we’re interested.
 
-Right now we are looking for PC members. So if you are interested in helping out with reading the abstracts submitted for poster presentations, please contact us here.
+Right now we are looking for PC members. So if you are interested in helping out with reading the abstracts submitted for poster presentations, please contact us below.
 
 ## Exhibition
 
@@ -83,7 +83,7 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 
 ## Our Sponsors
 
-We are currently looking for sponsors. For sponsor packages head over here to have a look.
+We are currently looking for sponsors.
 
 ## Contact Us
 
