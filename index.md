@@ -6,11 +6,10 @@ layout: default
 
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
-Alice & Eve aims to bring together talents in the field of computing. The third edition of this workshop will be hosted
-on **end of October 2023** by University of Amsterdam.
+Alice & Eve aims to bring together talents in the field of computing. The fourth edition of this workshop will be hosted
+at the **end of October 2023** by the University of Amsterdam.
 
-Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/)
-and [2022](https://alice-and-eve.github.io/2022/).
+Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/) and [2022](https://alice-and-eve.github.io/2022/).
 
 The event is held during a single day, and features:
 
@@ -66,8 +65,8 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 - Dolly Sapra, University of Amsterdam (UvA)
 - Iris Groen, University of Amsterdam (UvA)
 - Rebecca Reiffenhäuser, University of Amsterdam (UvA)
-- Ilaria Barriston, Centrum Wiskunde \& Informatics (CWI)
-- Michelle Sweering, Centrum Wiskunde \& Informatics (CWI)
+- Ilaria Battiston, Centrum Wiskunde & Informatica (CWI)
+- Michelle Sweering, Centrum Wiskunde & Informatica (CWI)
 
 
 
