@@ -5,7 +5,7 @@ layout: default
 <!-- ![Header Image, Alice and Eve 2023 at TU Delft](assets/header_2023.png) -->
 
 
-### About:
+## About
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
 Alice & Eve aims to bring together talents in the field of computing. The fourth edition of this workshop will be hosted
