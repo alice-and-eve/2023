@@ -82,8 +82,23 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 
 ## Our Sponsors
 
-We are currently looking for sponsors.
+We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana Pernisch <r.pernisch@vu.nl>) for more information and a discussion on how your organization could support the 4th Alice and Eve workshop.
 
+## Hosted by
+
+<div style="text-align: center">
+  <div class="sponsors orga">
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/uva-logo.png" alt="Logo UvA" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/VU-logo.png" alt="Logo VU" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
+    </div>
+  </div>
+</div>
 ## Contact Us
 
 For questions regarding the workshop, please [contact the organizers](mailto:Romana Pernisch <r.pernisch@vu.nl>, Iris Groen <i.groen@uva.nl>, Ilaria Barriston <ilaria.battiston@cwi.nl>?subject=[Alice and Eve 2023] Question)!
