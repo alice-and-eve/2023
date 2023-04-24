@@ -63,7 +63,7 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 
 - [Romana Pernish](https://romana.pernisch.ch), Vrije Universiteit Amsterdam (VU)
 - Dolly Sapra, University of Amsterdam (UvA)
-- Iris Groen, University of Amsterdam (UvA)
+- [Iris Groen](http://www.irisgroen.com), University of Amsterdam (UvA)
 - Rebecca Reiffenhäuser, University of Amsterdam (UvA)
 - Ilaria Battiston, Centrum Wiskunde & Informatica (CWI)
 - Michelle Sweering, Centrum Wiskunde & Informatica (CWI)
