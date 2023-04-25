@@ -101,5 +101,5 @@ We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana P
 </div>
 ## Contact Us
 
-For questions regarding the workshop, please [contact the organizers](mailto:Romana Pernisch <r.pernisch@vu.nl>, Iris Groen <i.groen@uva.nl>, Ilaria Barriston <ilaria.battiston@cwi.nl>?subject=[Alice and Eve 2023] Question)!
+For questions regarding the workshop, please [contact the organizers](mailto:Romana Pernisch <r.pernisch@vu.nl>, Iris Groen <i.i.a.groen@uva.nl>, Ilaria Barriston <ilaria.battiston@cwi.nl>?subject=[Alice and Eve 2023] Question)!
 
