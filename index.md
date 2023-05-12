@@ -62,23 +62,20 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 ## Organizing committee
 
 - [Romana Pernish](https://romana.pernisch.ch), Vrije Universiteit Amsterdam (VU)
-- Dolly Sapra, University of Amsterdam (UvA)
-- [Iris Groen](http://www.irisgroen.com), University of Amsterdam (UvA)
-- Rebecca Reiffenhäuser, University of Amsterdam (UvA)
+- Dolly Sapra, Universiteit van Amsterdam (UvA)
+- [Iris Groen](http://www.irisgroen.com), Universiteit van Amsterdam (UvA)
+- Rebecca Reiffenhäuser, Universiteit van Amsterdam (UvA)
 - Ilaria Battiston, Centrum Wiskunde & Informatica (CWI)
 - Michelle Sweering, Centrum Wiskunde & Informatica (CWI)
 
-
-
-
 ## Steering committee
 
-- [Marieke Huisman](https://people.utwente.nl/m.huisman), University of Twente (UT)
-- [Sophie Lathouwers](https://wwwhome.ewi.utwente.nl/~lathouwerssam/), University of Twente (UT)
-- [Cynthia Liem](https://www.cynthialiem.com/), Delft University of Technology (TUD)
-- [Alma Schaafstal](https://people.utwente.nl/a.m.schaafstal), University of Twente (UT)
-- [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Eindhoven University of Technology (TU/e)
-- [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/), University of Twente (UT)
+- [Peter Bloem](https://peterbloem.nl/), Vrije Universiteit Amsterdam (VU)
+- [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html), Universiteit van Amsterdam (UvA)
+- [Paola Grosso](https://staff.fnwi.uva.nl/p.grosso/index.html), Universiteit van Amsterdam (UvA)
+- [Lynda Hardman](https://homepages.cwi.nl/~lynda/), Centrum Wiskunde & Informatica (CWI)
+- [Animesh Kumar Trivedi](https://animeshtrivedi.github.io/), Vrije Universiteit Amsterdam (VU) 
+
 
 ## Our Sponsors
 
