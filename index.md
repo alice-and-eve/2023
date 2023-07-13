@@ -19,9 +19,12 @@ The event is held during a single day, and features:
 
 Join us, and participate to our poster contest on the topic of your choice!
 
+### Date:
+Alice&Eve will take place on October 27th, 2023.
+
 ### Venue:
 
-The workshop will be held at Lab42 at UvA science park.
+The workshop will be held at Lab42 at UvA Science Park.
 
 ### Registration:
 
