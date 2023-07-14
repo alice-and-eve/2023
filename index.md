@@ -39,9 +39,11 @@ poster contests during Alice & Eve 2023. We interpret “related subjects” ver
 everybody in the area of computing in the broadest sense. If you are not sure, drop the organizers an email and we will
 probably say yes.
 
-To enter the poster contest, please write a one page abstract (minimum 250 words) on the topic of your poster. Your
+<!--- To enter the poster contest, please write a one page abstract (minimum 250 words) on the topic of your poster. Your
 abstract can be on any computing topic you like, e.g., it can be on a topic from social networking to quantum computing;
-and from medical image processing to formal verification. If it involves computers, we’re interested.
+and from medical image processing to formal verification. If it involves computers, we’re interested. --->
+
+Poster submissions have not opened yet. 
 
 Right now we are looking for programme committee members. So if you are interested in helping out with reading the abstracts submitted for poster presentations, please contact [Michelle Sweering](mailto:Michelle Sweering <michelle.sweering@cwi.nl>?subject=[Alice and Eve 2023] Posters).
 ## Exhibition
