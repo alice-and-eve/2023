@@ -6,8 +6,7 @@ layout: default
 
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
-Alice & Eve aims to bring together talents in the field of computing. The fourth edition of this workshop will be hosted
-at the **end of October 2023** by the University of Amsterdam.
+Alice & Eve aims to bring together talents in the field of computing. The fourth edition of this workshop will be hosted on **27 October 2023** by the University of Amsterdam.
 
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/) and [2022](https://alice-and-eve.github.io/2022/).
 
@@ -20,11 +19,11 @@ The event is held during a single day, and features:
 Join us, and participate to our poster contest on the topic of your choice!
 
 ### Date:
-Alice&Eve will take place on October 27th, 2023.
+Alice & Eve will take place on October 27th, 2023.
 
 ### Venue:
 
-The workshop will be held at Lab42 at UvA Science Park.
+The workshop will be held at LAB42 at UvA Science Park.
 
 ### Registration:
 
