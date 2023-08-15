@@ -36,7 +36,7 @@ Fill out this form to get a notification when registration opens: [https://forms
 
 We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster.
 
-To enter the poster contest, please write a half-page abstract (maximum 250 words) on the topic of your poster and submit it by 1 October 2023 through EasyChair: https://easychair.org/conferences/?conf=ae23
+To enter the poster contest, please write a half-page abstract (maximum 250 words) on the topic of your poster and submit it by 1 October 2023 through EasyChair: [https://easychair.org/conferences/?conf=ae23](https://easychair.org/conferences/?conf=ae23)
 
 Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
