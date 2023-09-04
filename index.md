@@ -64,7 +64,7 @@ More information on these women, and many others, can be found at the exhibition
 the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
 
 
-## Organizing committee
+## Organizing Committee
 
 - [Romana Pernish](https://romana.pernisch.ch), Vrije Universiteit Amsterdam (VU)
 - Dolly Sapra, Universiteit van Amsterdam (UvA)
@@ -73,7 +73,7 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 - Ilaria Battiston, Centrum Wiskunde & Informatica (CWI)
 - Michelle Sweering, Centrum Wiskunde & Informatica (CWI)
 
-## Steering committee
+## Advisory Committee
 
 - [Peter Bloem](https://peterbloem.nl/), Vrije Universiteit Amsterdam (VU)
 - [Judith Good](https://www.uva.nl/en/profile/g/o/j.a.good/j.a.good.html), Universiteit van Amsterdam (UvA)
