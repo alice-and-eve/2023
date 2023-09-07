@@ -95,7 +95,7 @@ We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana P
       <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
     </div>
     <div class="margin-top">
-      <img src="assets/sponsors-logo/Re__Sponsoring_the_\"Alice_and_Eve\"_workshop/TOPdesk_RGB_Logo_Tagline.png" alt="Logo TOPDesk" style="max-width: 100%">
+      <img src="assets/sponsors-logo/TOPdesk_RGB_Logo_Tagline.png" alt="Logo TOPDesk" style="max-width: 100%">
     </div>
     <div class="margin-top">
       <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
