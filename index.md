@@ -86,6 +86,26 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 
 We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana Pernisch <r.pernisch@vu.nl>?subject=[Alice and Eve 2023] Sponsoring) for more information and a discussion on how your organization could support the 4th Alice and Eve workshop.
 
+<div style="text-align: center">
+  <div class="sponsors orga">
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/BetterBe Corporate Identity files 001/betterbe-logo-rgb.png" alt="Logo BetterBe" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/Re__Sponsoring_the_\"Alice_and_Eve\"_workshop/TOPdesk_RGB_Logo_Tagline.png" alt="Logo TOPDesk" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 100%">
+    </div>
+  </div>
+</div>
+
 ## Hosted by
 
 <div style="text-align: center">
