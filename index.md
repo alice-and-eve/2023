@@ -63,6 +63,17 @@ Some highlights of the exhibition:
 More information on these women, and many others, can be found at the exhibition and
 the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
 
+## Invited Speakers
+
+We have invited some inspiring women working on the cutting edge of computing including:
+
+- **Anna Lukina** - a computer scientist working on improving safety and interpretability of artificial intelligence at TU Delft
+- **Carla Groenland** - a researcher in discrete mathematics and algorithms at TU Delft
+- **Marcela Tuler de Oliveira** - a telecommunications engineer and a thought leader in digital solutions for cross-organizational data sharing at TU Delft
+- **Rianne van den Berg** - a principal researcher working on the intersection of deep learning and computational chemistry and physics for molecular simulation at Microsoft Research Amsterdam
+- **Ana Oprescu** - an assistant professor working on complex cyberinfrastructure at the University of Amsterdam
+
+More information will follow soon.
 
 ## Organizing Committee
 
