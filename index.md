@@ -92,6 +92,14 @@ More information will follow soon.
 - [Lynda Hardman](https://homepages.cwi.nl/~lynda/), Centrum Wiskunde & Informatica (CWI)
 - [Animesh Kumar Trivedi](https://animeshtrivedi.github.io/), Vrije Universiteit Amsterdam (VU) 
 
+## Steering committee
+
+- [Marieke Huisman](https://people.utwente.nl/m.huisman), Universiteit Twente (UT)
+- [Sophie Lathouwers](https://wwwhome.ewi.utwente.nl/~lathouwerssam/), Universiteit Twente (UT)
+- [Cynthia Liem](https://www.cynthialiem.com/), Technische Universiteit Delft (TUD)
+- [Alma Schaafstal](https://people.utwente.nl/a.m.schaafstal), Universiteit Twente (UT)
+- [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Technische Universiteit Eindhoven (TU/e)
+- [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/), Universiteit Twente (UT)
 
 ## Our Sponsors
 
