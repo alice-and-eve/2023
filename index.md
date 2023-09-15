@@ -44,8 +44,6 @@ Notifications will be sent out by 14 October 2023. Selected participants are exp
 
 If you have any questions, don't hesitate to get in touch. We look forward to seeing you in Amsterdam!
 
-Right now we are also looking for programme committee members. So if you are interested in helping out with reading the abstracts submitted for poster presentations, please contact [Michelle Sweering](mailto:Michelle Sweering <michelle.sweering@cwi.nl>?subject=[Alice and Eve 2023] Posters).
-
 ## Exhibition
 
 In addition to the keynote talks and the posters, there will be an exhibition which portrays thirty women in computing
