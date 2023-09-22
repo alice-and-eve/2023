@@ -84,11 +84,12 @@ the [online booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-1
 
 We have invited some inspiring women working on the cutting edge of computing. Confirmed speakers include:
 
-- **Anna Lukina** - a computer scientist working on improving safety and interpretability of artificial intelligence at TU Delft
-- **Carla Groenland** - a researcher in discrete mathematics and algorithms at TU Delft
-- **Marcela Tuler de Oliveira** - a telecommunications engineer and a thought leader in digital solutions for cross-organizational data sharing at TU Delft
 - **Rianne van den Berg** - a principal researcher working on the intersection of deep learning and computational chemistry and physics for molecular simulation at Microsoft Research Amsterdam
+- **Marieke van Erp** - a research group leader working on strengthening digital methods in humanities research at the Digital Humanities Research Lab
+- **Carla Groenland** - a researcher in discrete mathematics and algorithms at TU Delft
+- **Anna Lukina** - a computer scientist working on improving safety and interpretability of artificial intelligence at TU Delft
 - **Ana Oprescu** - an assistant professor working on complex cyberinfrastructure at the University of Amsterdam
+- **Marcela Tuler de Oliveira** - a telecommunications engineer and a thought leader in digital solutions for cross-organizational data sharing at TU Delft
 
 More information and a detailed programme will follow soon.
 
