@@ -32,6 +32,25 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSeE9nok8a7G8ulDBM83JNBS9gpw6gkSOA836kO2iAQ4QZaLOw/viewform?usp=pp_url&entry.1084557700=Morning+Coffee&entry.1084557700=Lunch&entry.1084557700=Afternoon+Coffee&entry.1084557700=Drinks)
 
+## Tentative Program
+
+| Time |  |
+|---|---|
+| 09.30 - 10.00  | Welcome coffee + opening |
+| 10.00 - 10.30  | Talk: **Ana Oprescu** - TBC |
+| 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - TBC |
+| 11.00 - 11.30  | Coffee Break  |
+| 11.30 - 12.00  | Talk: **Carla Groenland** - Why combinatorics is useful for (theoretical) computer science  |
+| 12.00 - 12.30  | Talk: **Ana Lukina** - TBC |
+| 12.30 - 14.00  | Lunch + Poster session + Exhibition  |
+| 14.00 - 14.30  | Sponsor Lightning Talks |
+| 14.30 - 15.00  | Talk: **Marieke van Erp** - TBC |
+| 15.00 - 15.30  | Talk: **Rianne van den Berg** - TBC|
+| 15.30 - 16.00  | Coffee Break |
+| 16.00 - 16.10  | Poster Prizes |
+| 16.10 - 17.00  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology**|
+| 17.00 - 19.00  | Drinks and socials |
+
 ## Call for Posters
 
 We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster.
