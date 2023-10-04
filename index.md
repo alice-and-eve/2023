@@ -126,6 +126,9 @@ We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana P
 <div style="text-align: center">
   <div class="sponsors orga">
     <div class="margin-top">
+      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
       <img src="assets/sponsors-logo/BetterBe Corporate Identity files 001/betterbe-logo-rgb.png" alt="Logo BetterBe" style="max-width: 100%">
     </div>
     <div class="margin-top">
@@ -134,11 +137,19 @@ We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana P
     <div class="margin-top">
       <img src="assets/sponsors-logo/TOPdesk_RGB_Logo_Tagline.png" alt="Logo TOPDesk" style="max-width: 100%">
     </div>
+ </div>
+</div>
+
+<div style="text-align: center">
+  <div class="sponsors orga">
     <div class="margin-top">
       <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
     </div>
     <div class="margin-top">
       <img src="assets/sponsors-logo/ASCI-Logo.png" alt="Logo ASCI" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/siks300.png" alt="Logo SIKS" style="max-width: 100%">
     </div>
   </div>
 </div>
