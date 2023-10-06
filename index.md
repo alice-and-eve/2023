@@ -93,6 +93,13 @@ We have invited some inspiring women working on the cutting edge of computing. C
 
 More information and a detailed programme will follow soon.
 
+## Jobs Board
+During the conference, there will be the possibility for attendees to advertise open positions in their university/company. Furthermore, participants looking for jobs are also welcome to post their credentials and type of job/internship they are looking for. Job postings are under the following rules:
+- Maximum one A4 flyer per company
+- Maximum one A4 sheet per participant looking for jobs
+- Each flyer must contain contact information
+- Jobs must be pertinent to computing
+
 ## Organizing Committee
 
 - [Romana Pernish](https://romana.pernisch.ch), Vrije Universiteit Amsterdam (VU)
