@@ -136,7 +136,8 @@ Harassment includes, but is not limited to:
 - Inappropriate physical contact
 - Unwelcome sexual attention
 - Advocating for, or encouraging, any of the above behaviour
-Participants asked to stop any harassing behavior are expected to comply immediately. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible by contacting Ilaria Battiston either in person or via email [Ilaria Battiston](mailto:Ilaria Battiston <ilaria@cwi.nl>?subject=[Alice and Eve CoC Report].
+  
+Participants asked to stop any harassing behavior are expected to comply immediately. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible by contacting Ilaria Battiston either in person or via [email](mailto:Ilaria Battiston <ilaria@cwi.nl>).
 This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy).
 
 ## Our Sponsors
