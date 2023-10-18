@@ -41,7 +41,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - TBC |
 | 11.00 - 11.30  | Coffee Break  |
 | 11.30 - 12.00  | Talk: **Carla Groenland** - Why combinatorics is useful for (theoretical) computer science  |
-| 12.00 - 12.30  | Talk: **Anna Lukina** - TBC |
+| 12.00 - 12.30  | Talk: **Lynda Hardman** - Exploring Relations in Neuroscience Literature using Augmented Reality |
 | 12.30 - 14.00  | Lunch + Poster session + Exhibition  |
 | 14.00 - 14.30  | Sponsor Lightning Talks |
 | 14.30 - 15.00  | Talk: **Marieke van Erp** - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
@@ -87,7 +87,6 @@ We have invited some inspiring women working on the cutting edge of computing. C
 - **Rianne van den Berg** - I am a Principal Researcher at Microsoft Research Amsterdam, where I work on the intersection of deep learning and computational chemistry and physics for molecular simulation. My research has spanned a range of topics from generative modeling, variational inference, source compression, graph-structured learning to condensed matter physics. Before joining MSR I was a Research Scientist at Google Brain. I received my PhD in theoretical condensed-matter physics in 2016 at the University of Amsterdam, where I also worked as a postdoctoral researcher as part of the Amsterdam Machine Learning Lab (AMLAB). In 2019 I won the Faculty of Science Lecturer of the Year award at the University of Amsterdam for teaching a machine learning course in the master of AI ([website](https://www.microsoft.com/en-us/research/people/rvandenberg/)).
 - **Marieke van Erp** - Marieke van Erp is a Language Technology and Semantic Web expert engaged in interdisciplinary research. She holds a PhD in computational linguistics from Tilburg University and has worked on many (inter)national interdisciplinary projects such as the FP7 NewsReader project, CLARIAH, and the H2020 Odeuropa project. Since 2017, she has been leading the Digital Humanities Research Lab at the Royal Netherlands Academy of Arts and Sciences Humanities Cluster. She is one of the founders and scientific directors of the Cultural AI Lab, a collaboration between 8 research and cultural heritage institutions in the Netherlands aimed at the study, design and development of socio-technological AI systems that are aware of the subtle and subjective complexity of human culture. In January 2023, she was awarded an ERC Consolidator project that will investigate how language and semantic web technologies can improve the creation of knowledge graphs supporting humanities research.
 - **Carla Groenland** - After doing bachelor's and master's degrees in both mathematics and artificial intelligence, Carla obtained a mathematics PhD at the University of Oxford and then did a postdoc at the Algorithms group of Utrecht University. She is now an assistant professor at TU Delft, performing research both on abstract properties of networks (and other discrete structures) as well as on how these can be exploited to yield efficient algorithms ([website](https://cgroenland.wordpress.com/)). 
-- **Anna Lukina** - Dr. Anna Lukina is Assistant Professor and Delft Technology Fellow at TU Delft. Her research team is working on verified and monitored AI decision-making. Dr. Lukina received her Master of Science in Applied Mathematics and Informatics from Lomonosov Moscow State University, followed by Master of Arts in Economics from New Economic School. After four years in financial industry, she joined Technische Universität Wien in Austria and, in 2019, obtained her Ph.D. in computer science. For two years, she was a postdoc with Prof. Thomas A. Henzinger at ISTA in Austria. She was also a long-term visiting scholar at the University of Pennsylvania, RWTH Aachen University, National Institute of Informatics in Tokyo, and University of Melbourne. In 2021, she was a Simons-Berkeley Research Fellow. In 2022, she became DEWIS awardee for spearheading Future Female+ Faculty (F+Cube) mentoring program at TU Delft. In 2023, she was awarded an NWO Veni grant for explainable monitoring of black-box AI systems.
 - **Ana Oprescu** - Ana Oprescu is an Assistant Professor in the Complex CyberInfrastructure research group in the Institute of Informatics (IvI) at the University of Amsterdam since 2021. Previously she was a lecturer in the Parallel Computing Systems research group in the same institute. She is the Program Director of the Software Engineering Master, as well as a member of the Women in the Faculty of Science (WiF) board. Together with Paola Grosso and Judith Good, she piloted the Nanny Fund initiative. She received her Senior Teaching Qualification in 2020. Her research goal is to understand the fundamental laws governing the complexity of modern software services such that we can eventually build controllable complex software services. She is currently exploring this interplay in the context of a Responsible Digital Transformation Seed grant on the energy cost of privacy-enhancing techniques and a Stimulation grant on the opportunities to simultaneously optimize energy cost, explainability, and accuracy of ML. Obviously, she secretly thinks everything is a Pareto front.
 - **Marcela Tuler de Oliveira** - Assistant Professor in Trustworthy Data Systems at Delft University of Technology, Department of Engineering Systems & Services, Dr. ir. Marcela Tuler de Oliveira stands out as a Telecommunications Engineer shaping the future of cross-organizational data sharing. Her expertise lies in leveraging Distributed Ledger Technology (DLT) for secure, traceable, and accountable data platforms, with impactful solutions spanning sectors like healthcare, aviation, and smart cities. As the task leader for the H2022 EU ExtremeXP project (2023-26), she's driving innovations in data management and access control using DLT. Besides her research, she’s a passionate educator at TU Delft, teaching and mentoring the next wave of tech innovators [website](https://www.tudelft.nl/staff/m.tulerdeoliveira/?cHash=ccdf4dc5f4015e6210a4fd157778321b) [LinkedIn](https://www.linkedin.com/in/marcelatuler/).
 
@@ -125,6 +124,20 @@ During the conference, there will be the possibility for attendees to advertise 
 - [Alma Schaafstal](https://people.utwente.nl/a.m.schaafstal), Universiteit Twente (UT)
 - [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Technische Universiteit Eindhoven (TU/e)
 - [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/), Universiteit Twente (UT)
+
+## Code of Conduct
+Alice and Eve is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
+Harassment includes, but is not limited to:
+- Verbal comments that reinforce social structures of domination [related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
+- Sexual images in public spaces
+- Deliberate intimidation, stalking, or following
+- Harassing photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact
+- Unwelcome sexual attention
+- Advocating for, or encouraging, any of the above behaviour
+Participants asked to stop any harassing behavior are expected to comply immediately. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible by contacting Ilaria Battiston either in person or via email [Ilaria Battiston](mailto:Ilaria Battiston <ilaria@cwi.nl>?subject=[Alice and Eve CoC Report].
+This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy).
 
 ## Our Sponsors
 
@@ -178,5 +191,5 @@ We are currently looking for sponsors. Contact [Romana Pernisch](mailto:Romana P
 </div>
 ## Contact Us
 
-For questions regarding the workshop, please [contact the organizers](mailto:Romana Pernisch <r.pernisch@vu.nl>, Iris Groen <i.i.a.groen@uva.nl>, Ilaria Barriston <ilaria.battiston@cwi.nl>?subject=[Alice and Eve 2023] Question)!
+For questions regarding the workshop, please [contact the organizers](mailto:Romana Pernisch <r.pernisch@vu.nl>, Iris Groen <i.i.a.groen@uva.nl>, Ilaria Battiston <ilaria.battiston@cwi.nl>?subject=[Alice and Eve 2023] Question)!
 
