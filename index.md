@@ -128,7 +128,7 @@ During the conference, there will be the possibility for attendees to advertise 
 ## Code of Conduct
 Alice and Eve is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
 Harassment includes, but is not limited to:
-- Verbal comments that reinforce social structures of domination [related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
+- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
 - Sexual images in public spaces
 - Deliberate intimidation, stalking, or following
 - Harassing photography or recording
@@ -137,7 +137,7 @@ Harassment includes, but is not limited to:
 - Unwelcome sexual attention
 - Advocating for, or encouraging, any of the above behaviour
   
-Participants asked to stop any harassing behavior are expected to comply immediately. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible by contacting Ilaria Battiston either in person or via [email](mailto:Ilaria Battiston <ilaria@cwi.nl>).
+Participants asked to stop any harassing behavior are expected to comply immediately. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible by contacting Ilaria Battiston (either in person or via [email](mailto:Ilaria Battiston <ilaria@cwi.nl>)) or Iris Groen (either in person or via [email](mailto:Iris Groen <i.i.a.groen@uva.nl>)).
 This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy).
 
 ## Our Sponsors
