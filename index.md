@@ -37,7 +37,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | Time |  |
 |---|---|
 | 09.30 - 10.00  | Welcome coffee + opening |
-| 10.00 - 10.30  | Talk: **Ana Oprescu** - TBC |
+| 10.00 - 10.30  | Talk: **Ana Oprescu** - Trilemmas in Software Systems and Education |
 | 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - TBC |
 | 11.00 - 11.30  | Coffee Break  |
 | 11.30 - 12.00  | Talk: **Carla Groenland** - Why combinatorics is useful for (theoretical) computer science  |
