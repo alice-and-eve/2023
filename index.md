@@ -40,7 +40,7 @@ REGISTRATION IS CLOSED!
 |---|---|
 | 09.30 - 10.00  | Welcome coffee + opening (L1.02, for all talks)|
 | 10.00 - 10.30  | Talk: **Ana Oprescu** - Trilemmas in Software Systems and Education |
-| 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - TBC |
+| 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - Distributed Access Control: Bridging Trustworthiness and Transparency in Cross-Organizational Data Sharing |
 | 11.00 - 11.30  | Coffee Break (L3.36) |
 | 11.30 - 12.00  | Talk: **Carla Groenland** - Why combinatorics is useful for (theoretical) computer science  |
 | 12.00 - 12.30  | Talk: **Lynda Hardman** - Exploring Relations in Neuroscience Literature using Augmented Reality |
