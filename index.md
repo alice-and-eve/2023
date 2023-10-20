@@ -30,7 +30,9 @@ The workshop will be held at LAB42 at UvA Science Park.
 
 The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
 
-[SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSeE9nok8a7G8ulDBM83JNBS9gpw6gkSOA836kO2iAQ4QZaLOw/viewform?usp=pp_url&entry.1084557700=Morning+Coffee&entry.1084557700=Lunch&entry.1084557700=Afternoon+Coffee&entry.1084557700=Drinks)
+REGISTRATION IS CLOSED!
+
+<!-- [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSeE9nok8a7G8ulDBM83JNBS9gpw6gkSOA836kO2iAQ4QZaLOw/viewform?usp=pp_url&entry.1084557700=Morning+Coffee&entry.1084557700=Lunch&entry.1084557700=Afternoon+Coffee&entry.1084557700=Drinks) -->
 
 ## Tentative Program
 
