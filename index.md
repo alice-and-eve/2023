@@ -34,7 +34,7 @@ REGISTRATION IS CLOSED!
 
 <!-- [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSeE9nok8a7G8ulDBM83JNBS9gpw6gkSOA836kO2iAQ4QZaLOw/viewform?usp=pp_url&entry.1084557700=Morning+Coffee&entry.1084557700=Lunch&entry.1084557700=Afternoon+Coffee&entry.1084557700=Drinks) -->
 
-## Tentative Program
+## Program
 
 | Time |  |
 |---|---|
@@ -91,8 +91,6 @@ We have invited some inspiring women working on the cutting edge of computing. C
 - **Carla Groenland** - After doing bachelor's and master's degrees in both mathematics and artificial intelligence, Carla obtained a mathematics PhD at the University of Oxford and then did a postdoc at the Algorithms group of Utrecht University. She is now an assistant professor at TU Delft, performing research both on abstract properties of networks (and other discrete structures) as well as on how these can be exploited to yield efficient algorithms ([website](https://cgroenland.wordpress.com/)). 
 - **Ana Oprescu** - Ana Oprescu is an Assistant Professor in the Complex CyberInfrastructure research group in the Institute of Informatics (IvI) at the University of Amsterdam since 2021. Previously she was a lecturer in the Parallel Computing Systems research group in the same institute. She is the Program Director of the Software Engineering Master, as well as a member of the Women in the Faculty of Science (WiF) board. Together with Paola Grosso and Judith Good, she piloted the Nanny Fund initiative. She received her Senior Teaching Qualification in 2020. Her research goal is to understand the fundamental laws governing the complexity of modern software services such that we can eventually build controllable complex software services. She is currently exploring this interplay in the context of a Responsible Digital Transformation Seed grant on the energy cost of privacy-enhancing techniques and a Stimulation grant on the opportunities to simultaneously optimize energy cost, explainability, and accuracy of ML. Obviously, she secretly thinks everything is a Pareto front.
 - **Marcela Tuler de Oliveira** - Assistant Professor in Trustworthy Data Systems at Delft University of Technology, Department of Engineering Systems & Services, Dr. ir. Marcela Tuler de Oliveira stands out as a Telecommunications Engineer shaping the future of cross-organizational data sharing. Her expertise lies in leveraging Distributed Ledger Technology (DLT) for secure, traceable, and accountable data platforms, with impactful solutions spanning sectors like healthcare, aviation, and smart cities. As the task leader for the H2022 EU ExtremeXP project (2023-26), she's driving innovations in data management and access control using DLT. Besides her research, she’s a passionate educator at TU Delft, teaching and mentoring the next wave of tech innovators [website](https://www.tudelft.nl/staff/m.tulerdeoliveira/?cHash=ccdf4dc5f4015e6210a4fd157778321b) [LinkedIn](https://www.linkedin.com/in/marcelatuler/).
-
-More information and a detailed programme will follow soon.
 
 ## Jobs Board
 During the conference, there will be the possibility for attendees to advertise open positions in their university/company. Furthermore, participants looking for jobs are also welcome to post their credentials and type of job/internship they are looking for. Job postings are under the following rules:
