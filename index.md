@@ -38,20 +38,20 @@ REGISTRATION IS CLOSED!
 
 | Time |  |
 |---|---|
-| 09.30 - 10.00  | Welcome coffee + opening |
+| 09.30 - 10.00  | Welcome coffee + opening (L1.02, for all talks)|
 | 10.00 - 10.30  | Talk: **Ana Oprescu** - Trilemmas in Software Systems and Education |
 | 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - TBC |
-| 11.00 - 11.30  | Coffee Break  |
+| 11.00 - 11.30  | Coffee Break (L3.36) |
 | 11.30 - 12.00  | Talk: **Carla Groenland** - Why combinatorics is useful for (theoretical) computer science  |
 | 12.00 - 12.30  | Talk: **Lynda Hardman** - Exploring Relations in Neuroscience Literature using Augmented Reality |
-| 12.30 - 14.00  | Lunch + Poster session + Exhibition  |
-| 14.00 - 14.30  | Sponsor Lightning Talks |
+| 12.30 - 14.00  | Lunch + Poster session + Exhibition  (L3.36) |
+| 14.00 - 14.30  | Sponsor Lightning Talks (L1.02, for all talks)|
 | 14.30 - 15.00  | Talk: **Marieke van Erp** - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
 | 15.00 - 15.30  | Talk: **Rianne van den Berg** - AI for the natural sciences|
-| 15.30 - 16.00  | Coffee Break |
+| 15.30 - 16.00  | Coffee Break (L3.36) |
 | 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology**|
 | 16.50 - 17.00  | Poster Prizes + closing |
-| 17.00 - 18.00  | Drinks and socials |
+| 17.00 - 18.00  | Drinks and socials (L3.36) |
 
 ## Call for Posters
 
