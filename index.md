@@ -47,9 +47,9 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 14.30 - 15.00  | Talk: **Marieke van Erp** - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
 | 15.00 - 15.30  | Talk: **Rianne van den Berg** - AI for the natural sciences|
 | 15.30 - 16.00  | Coffee Break |
-| 16.00 - 16.10  | Poster Prizes |
-| 16.10 - 17.00  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology**|
-| 17.00 - 19.00  | Drinks and socials |
+| 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology**|
+| 16.50 - 17.00  | Poster Prizes + closing |
+| 17.00 - 18.00  | Drinks and socials |
 
 ## Call for Posters
 
