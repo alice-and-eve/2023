@@ -25,6 +25,7 @@ Alice & Eve will take place on October 27th, 2023.
 ### Venue:
 
 The workshop will be held at LAB42 at UvA Science Park.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.8666068656294!2d4.95200197667113!3d52.35470457201834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6093794c982b7%3A0x5ba7c8690917b951!2sLab42!5e0!3m2!1snl!2snl!4v1697828221735!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Registration:
 
