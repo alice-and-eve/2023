@@ -39,7 +39,8 @@ REGISTRATION IS CLOSED!
 
 | Time |  |
 |---|---|
-| 09.30 - 10.00  | Welcome coffee + opening (L1.02, for all talks)|
+| 09.30 - 9.50  | Welcome coffee (L3.36)|
+| 09.50 - 10.00  | Opening (L1.02, for all talks)|
 | 10.00 - 10.30  | Talk: **Ana Oprescu** - Trilemmas in Software Systems and Education |
 | 10.30 - 11.00  | Talk: **Marcela Tuler de Oliveira** - Distributed Access Control: Bridging Trustworthiness and Transparency in Cross-Organizational Data Sharing |
 | 11.00 - 11.30  | Coffee Break (L3.36) |
