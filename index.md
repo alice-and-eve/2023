@@ -51,7 +51,8 @@ REGISTRATION IS CLOSED!
 | 14.30 - 15.00  | Talk: **Marieke van Erp** - Mixing AI and humanities for smell history and heritage: the story of Odeuropa  |
 | 15.00 - 15.30  | Talk: **Rianne van den Berg** - AI for the natural sciences|
 | 15.30 - 16.00  | Coffee Break (L3.36) |
-| 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology**|
+| 16.00 - 16.50  | Panel: **Closing the Gap: Addressing the Digital Divide through Accessible Technology** (speakers: Emma Beauxis-Aussalet, Hinda Haned, Iffat Rose Gill; moderator: Paola Grosso)
+|
 | 16.50 - 17.00  | Poster Prizes + closing |
 | 17.00 - 18.00  | Drinks and socials (L3.36) |
 
