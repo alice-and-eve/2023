@@ -4,6 +4,7 @@ layout: default
 
 <!-- ![Header Image, Alice and Eve 2023 at TU Delft](assets/header_2023.png) -->
 
+**Did you attend Alice & Eve 2023? Please fill out our feedback form: [https://forms.gle/cFKzTXHZQpLtyMY17](https://forms.gle/cFKzTXHZQpLtyMY17)**
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
 Alice & Eve aims to bring together talents in the field of computing. The fourth edition of this workshop will be hosted on **27 October 2023** by the University of Amsterdam.
