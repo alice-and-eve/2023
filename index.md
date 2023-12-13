@@ -63,7 +63,6 @@ We invited all female students (Bachelor/Master/PhD) and early career researcher
 **Winner: Shruti Rao**
 
 Towards Emotionally Intelligent Spaces: Enhancing Human Well-being and Experiences in Smart Buildings
-winner
 
 **Runner-up: Isabella Venancia Gardner**
 
