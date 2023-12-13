@@ -56,17 +56,20 @@ REGISTRATION IS CLOSED!
 | 16.50 - 17.00  | Poster Prizes + closing |
 | 17.00 - 18.00  | Drinks and socials (L3.36) |
 
-## Call for Posters
+## Poster Contest
 
-We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster.
+We invited all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. Twenty-five posters were short listed for display during the event, where the following winners were chosen:
 
-To enter the poster contest, please write a half-page abstract (maximum 250 words) on the topic of your poster and submit it by 1 October 2023 through EasyChair: [https://easychair.org/conferences/?conf=ae23](https://easychair.org/conferences/?conf=ae23)
+**Winner: Shruti Rao**
 
-Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested. We welcome you to reuse any existing/published work or poster, no need to print it again.
+Towards Emotionally Intelligent Spaces: Enhancing Human Well-being and Experiences in Smart Buildings
+winner
 
-Notifications will be sent out by 14 October 2023. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Amsterdam to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
+**Runner-up: Isabella Venancia Gardner**
 
-If you have any questions, don't hesitate to get in touch. We look forward to seeing you in Amsterdam!
+Machine Learning for Electrostatic Ground-State Simulation of Silicon Dangling Bond Logic: Exploring the Impact of Custom Physical Feature Encodings in Transformer-based Models
+
+Congratulations Shruti and Isabella! We would like to thank Versen for sponsoring the contest and our programme committee (Marco Brohet, Christopher Esterhuyse, Stefan Schlobach, Lise Stork, Krisztina Szilagyi, Monika Trimoska, Romy Vos and Shuai Wang) for their hard work behind the scenes.
 
 ## Exhibition
 
